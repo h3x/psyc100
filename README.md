@@ -1,1 +1,1 @@
-# quiz [here](https://h3x.github.io/p100-quiz/)
+# quiz [here](https://h3x.github.io/psyc100/)
