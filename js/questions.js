@@ -245,7 +245,454 @@ let $questions = [
         },
         
         //  Learning
+        {
+                "question" : "Cognitive-social theory incorporates:",
+                "a": "the cognitive perspective of psychology with sociobiology.",
+                "b": "psychoanalytical concepts of learning with classical conditioning.",
+                "c": "classical and operant conditioning with the evolutionary perspective of learning.",
+                "d": "behaviour concepts of conditioning with cognition and social learning.",
+                "answer": "d"
+        }, {
+                "question" : "Extinction in operant conditioning occurs if enough conditioning trials pass, in which:",
+                "a": "the presentation of the CR occurs without the presentation of the CS.",
+                "b": "the operant is not followed by the consequence previously associated with it.",
+                "c": "the operant behaviour is not rewarded but the classically conditioned behaviour is rewarded.",
+                "d": "variable interval schedules of reinforcement are used as opposed to fixed interval schedules.",
+                "answer": "b"
+        }, {
+                "question" : "Humans are more likely to develop phobias of spiders or snakes, rather than flowers or sheep. This is likely due to:",
+                "a": "operant conditioning.",
+                "b": "classical conditioning",
+                "c": "prepared learning.",
+                "d": "learned helplessness.",
+                "answer": "c"
+        }, {
+                "question" : "If you remove an aversive situation when the organism makes the desired response, you are using:",
+                "a": "positive reinforcement.",
+                "b": "negative reinforcement.",
+                "c": "positive punishment.",
+                "d": "negative punishment.",
+                "answer": "d"
+        }, {
+                "question" : "In a well-known example of classical conditioning, researchers taught a baby named Little Albert to fear a furry white rat by frightening him with a loud noise each time he reached out to touch the rat. Suppose Watson and Raynor had exposed little Albert repeatedly (i.e. on the second, third and all subsequent trials) to the white rat but without the noise. Albert's fear response would have:",
+                "a": "extinguished.",
+                "b": "become even stronger.",
+                "c": "spontaneously recovered.",
+                "d": "generalised to whatever white, furry objects were present in the environment.",
+                "answer": "a"
+        }, {
+                "question" : "In classical conditioning, the most effective form of temporal relationship between the CS and UCS involves:",
+                "a": "forward conditioning.",
+                "b": "backward conditioning.",
+                "c": "simultaneous conditioning.",
+                "d": "paradoxical conditioning.",
+                "answer": "a"
+        }, {
+                "question" : "In operant conditioning, when a response has been extinguished:",
+                "a": "it has been permanently unlearned.",
+                "b": "it may return spontaneously.",
+                "c": "it will respond only to negative reinforcement.",
+                "d": "it has been permanently forgotten.",
+                "answer": "b"
+        }, {
+                "question" : "In vicarious learning:",
+                "a": "a person learns the consequences of an action by watching someone else's results.",
+                "b": "the pairing of a USC and CS produce a CR.",
+                "c": "learning is generalised beyond the original training context.",
+                "d": "one person teaches another by example.",
+                "answer": "a"
+        }, {
+                "question" : "Prior to the fall of the Berlin wall, East Berlin schools de-emphasised individualism. This in part explains the East Berliners' tendency to have an:",
+                "a": "internal locus of control.",
+                "b": "external locus of control.",
+                "c": "optimistic explanatory style.",
+                "d": "optimistic locus of control.",
+                "answer": "b"
+        }, {
+                "question" : "Regarding conditioning, prepared learning refers to:",
+                "a": "an organism's ability to be conditioned to endure changes in the way it responds on the basis of experience.",
+                "b": "the ability of an organism to learn to operate on the environment to produce a desired consequence.",
+                "c": "the biologically wired preparedness of an organism to learn some associations more easily than others.",
+                "d": "the expectancy that one cannot escape aversive events and must therefore be prepared for emotional disturbances.",
+                "answer": "c"
+        }, {
+                "question" : "Reinforcement is:",
+                "a": "an environmental event which increases the probability that a response will be repeated.",
+                "b": "required for learning to occur.",
+                "c": "as effective as punishment in changing the probability of a response.",
+                "d": "only useful in operant conditioning.",
+                "answer": "a"
+        }, {
+                "question" : "The ability of an organism to learn a task without being reinforced is best explained by the cognitive-social theory term:",
+                "a": "unconscious reinforcement.",
+                "b": "intuitive conditioning.",
+                "c": "latent learning.",
+                "d": "cognitive dissonance.",
+                "answer": "c"
+        }, {
+                "question" : "The highest and most consistent rate of response is produced by a _________ schedule of reinforcement.",
+                "a": "fixed-ratio",
+                "b": "variable-ratio ",
+                "c": "fixed-interval",
+                "d": "variable-interval",
+                "answer": "b"
+        }, {
+                "question" : "Tolman coined the phrase 'latent learning' to describe learning that has occurred but:",
+                "a": "is reduced by blocking.",
+                "b": "has lessened from continuous reinforcement.",
+                "c": "is not currently manifest in behaviour.",
+                "d": "is no longer applicable to the current environment.",
+                "answer": "c"
+        }, {
+                "question" : "When using punishment, you should:",
+                "a": "make the punishment fairly severe.",
+                "b": "Increase the intensity of the punishment over time.",
+                "c": "administer the punishment using a variable interval schedule.",
+                "d": "make sure the person being punished is reinforced for alternative, acceptable behaviours.",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following descriptions best describes classical conditioning?",
+                "a": "When a neutral stimulus is paired with a stimulus that produces a response a number of times, the neutral stimulus comes to evoke a similar response",
+                "b": "When a reflex is evoked a number of times and is followed by a neutral stimulus, the neutral stimulus becomes associated with the response",
+                "c": "When an unconditioned stimulus precedes a conditioned one, learning occurs",
+                "d": "Evoking a conditioned stimulus several times results in sensitisation to that stimulus and more rapid acquisition",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following is not a problem with punishment",
+                "a": "Sometimes it is difficult for young children or animals to understand what behaviour is being punished.",
+                "b": "The person being punished may become afraid of the person punishing them.",
+                "c": "Punishment may make it difficult for rewards to work in other situations.",
+                "d": "Punishment doesn't necessarily work if rewards for the behaviour aren't eliminated.",
+                "answer": "c"
+        }, {
+                "question" : "Which of the following is the most fundamental concept underlying operant conditioning?",
+                "a": "Behaviour is mediated by cognitive processes.",
+                "b": "Behaviour is controlled by its consequences.",
+                "c": "Behaviour is predetermined by evolutionary adaptation.",
+                "d": "Behaviour is learned through conditioning.",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following statements concerning reinforcement is correct?",
+                "a": "Learning is quickest with partial reinforcement, but continuous reinforcement is more resistant to extinction.",
+                "b": "Learning is quickest with continuous reinforcement, but partial reinforcement is more resistant to extinction.",
+                "c": "Learning is quickest, and resistance to extinction is greatest, after continuous reinforcement.",
+                "d": "Learning is quickest, and resistance to extinction is greatest, following partial reinforcement.",
+                "answer": "b"
+        }, {
+                "question" : "You clap with delight when your young son picks up a spoon. You laugh and applaud when he later brings the spoon toward his mouth. When he places the spoon in his mouth, you hug him. Whether you realise it or not, by reacting in this way to your son's behaviour, you are carrying out a process of:",
+                "a": "shaping.",
+                "b": "fixed ratio reinforcement.",
+                "c": "variable ratio reinforcement.",
+                "d": "classical conditioning.",
+                "answer": "a"
+        }, 
+        
+        //  Memory
+        {
+                "question" : "Alicia cannot remember the events immediately preceding her car accident in which she suffered multiple head injuries. This is an example of:",
+                "a": "interference.",
+                "b": "motivated forgetting.",
+                "c": "retrograde amnesia.",
+                "d": "anterograde amnesia.",
+                "answer": "c"
+        }, {
+                "question" : "Because of _____ memory, it does seem to be true that once you learn to ride a bike you never forget.",
+                "a": "declarative",
+                "b": "procedural",
+                "c": "priming",
+                "d": "semantic",
+                "answer": "b"
+        }, {
+                "question" : "The subsystem of declarative memory that contains memories of particular events is:",
+                "a": "elaborative memory.",
+                "b": "procedural memory.",
+                "c": "semantic memory.",
+                "d": "episodic memory.",
+                "answer": "d"
+        }, {
+                "question" : "Ebbinghaus' forgetting curve reveals that:",
+                "a": "a vast amount of information is lost in a short period of time.",
+                "b": "information is lost gradually over time and at a rate equivalent to that of learning.",
+                "c": "most information is held onto for a long period of time and afterwards it is gradually lost.",
+                "d": "individual differences are the best explanation of the rate at which forgetting occurs.",
+                "answer": "a"
+        }, {
+                "question" : "Schemas:",
+                "a": "play a reconstructive role in memory.",
+                "b": "aid in accurate memory recall.",
+                "c": "are invariant.",
+                "d": "make life seem like one random event after another. ",
+                "answer": "a"
+        }, {
+                "question" : "In a study on context cues, people learned words while on land or underwater. In a later test of recall, those with the best memory performance had:",
+                "a": "learned the words on land.",
+                "b": "learned the words underwater.",
+                "c": "learned the words and been tested on them in different contexts.",
+                "d": "learned the words and been tested on them in the same context.",
+                "answer": "d"
+        }, {
+                "question" : "Increasing the number of ways you encode information:",
+                "a": "is confusing and leads to poor retention.",
+                "b": "requires too much effort for too little gain.",
+                "c": "helps one encode information more rapidly.",
+                "d": "significantly improves retrieval.",
+                "answer": "d"
+        }, {
+                "question" : "Short-term memory is:",
+                "a": "enduring; virtually limitless; more difficult to access. ",
+                "b": "brief; limited in capacity; quickly accessed. ",
+                "c": "brief, virtually limitless; quickly accessed. ",
+                "d": "enduring, limited in capacity; more difficult to access. ",
+                "answer": "b"
+        }, {
+                "question" : "Memory expressed in behaviour that does not require conscious recollection is:",
+                "a": "implicit memory.",
+                "b": "explicit memory.",
+                "c": "episodic memory.",
+                "d": "semantic memory.",
+                "answer": "a"
+        }, {
+                "question" : "Multiple-choice tests, such as this, often involve which type of retrieval from LTM?",
+                "a": "Semantic",
+                "b": "Implicit",
+                "c": "Recognition",
+                "d": "Recall",
+                "answer": "c"
+        }, {
+                "question" : "Procedural memory refers to:",
+                "a": "chunking of information in working memory.",
+                "b": "memory for facts and events.",
+                "c": "verbal storage representations.",
+                "d": "how-to knowledge.",
+                "answer": "d"
+        }, {
+                "question" : "Prospective memory is memory for:",
+                "a": "making a decision about which brand of toaster to purchase ",
+                "b": "the beginning of a new route home.",
+                "c": "learning a new song.",
+                "d": "remembering to pick up the kids later on this afternoon.",
+                "answer": "d"
+        }, {
+                "question" : "The encoding specificity principle implies that:",
+                "a": "retrieval is easier if the encoding and retrieval environments are similar. ",
+                "b": "highly specific material is recalled more easily than general material.",
+                "c": "the ease of encoding is related to the ease of retrieval.",
+                "d": "coding and retrieval are unrelated.",
+                "answer": "a"
+        }, {
+                "question" : "Because memory is both functional and reconstructive:",
+                "a": "it helps with recollection. ",
+                "b": "it is enhanced by spacing. ",
+                "c": "it is subject to errors and biases.",
+                "d": "we forget more than we think we do.",
+                "answer": "c"
+        }, {
+                "question" : "In a study involving the Bahrick family trying to learn 300 foreign language vocabulary words, the best way to learn the information was found to be:",
+                "a": "to cram a lot of information into short study sessions. ",
+                "b": "to rely on rote learning. ",
+                "c": "to rely on a deep level of encoding. ",
+                "d": "to spread the study sessions across longer intervals. ",
+                "answer": "d"
+        }, {
+                "question" : "What is the normal range of information people can hold in short-term memory?",
+                "a": "Three to five items",
+                "b": "Five to nine items",
+                "c": "Seven to ten items",
+                "d": "Eight to twelve items",
+                "answer": "b"
+        }, {
+                "question" : "When a list of words is presented to participants, they tend to remember those at the beginning and at the end of the list more easily than those in the middle, because of:",
+                "a": "the primacy effect.",
+                "b": "the serial position effect",
+                "c": "the priming process.",
+                "d": "rehearsal.",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following is an important way to maintain information in short-term memory?",
+                "a": "Elaborative memory",
+                "b": "Sensory registration",
+                "c": "Maintenance rehearsal",
+                "d": "Operant conditioning",
+                "answer": "c"
+        }, {
+                "question" : "Working memory refers to the:",
+                "a": "individual memory for facts, images, thoughts, feelings, skills and experiences that may last as long as a lifetime.",
+                "b": "memory specifically dedicated to working with facts, events, or information that can be consciously stated.",
+                "c": "memory that is expressed in behaviour, and acquired through conditioned learning and associations between one representation and another.",
+                "d": "temporary storage and processing of information that can be used to solve problems, respond to environmental demands, or achieve goals.",
+                "answer": "d"
+        }, {
+                "question" : "You learned to drive on the left-hand side of the road in Australia. You are now living in America, where they drive on the right-hand side of the road. When you are driving, old driving habits resume whenever your concentration is broken. What is interfering with you learning to drive in America?",
+                "a": "Proactive interference",
+                "b": "Retroactive interference",
+                "c": "Motivated forgetting",
+                "d": "State-dependent learning",
+                "answer": "a"
+        }, 
+        
+        // Human Development
         // {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
         //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
