@@ -531,288 +531,749 @@ let $questions = [
         }, 
         
         // Human Development
+        {
+                "question" : "According to Erikson, at each of the eight stages, an individual faces what type of challenge that is normative for that period of life?",
+                "a": "Moral dilemma",
+                "b": "Developmental task",
+                "c": "Crisis of conscience",
+                "d": "Cultural expectation",
+                "answer": "b"
+        }, {
+                "question" : "According to Kohlberg, at the third level of moral development, postconventional morality, morality is:",
+                "a": "abstract, self-defined principles",
+                "b": "defined by the desire to avoid punishment or obtain reward.",
+                "c": "defined by what they have learned from others, especially authority figures.",
+                "d": "based on the need to maintain law and order.",
+                "answer": "a"
+        }, {
+                "question" : "A child of what stage is incapable of seeing the world from anyone else's viewpoint or perspective?",
+                "a": "Sensorimotor",
+                "b": "Preoperational",
+                "c": "Concrete operational",
+                "d": "Both a and b",
+                "answer": "d"
+        }, {
+                "question" : "An individual answers the Heinz dilemma arguing that Heinz should not steal the drug, because 'he might get caught and go to jail'. This reasoning is most characteristic of which of Kohlberg's stages of moral development?",
+                "a": "preconventional morality",
+                "b": "conventional morality",
+                "c": "unconventional morality",
+                "d": "postconventional morality",
+                "answer": "a"
+        }, {
+                "question" : "Children develop a theory of mind between the ages of approximately:",
+                "a": "1 and 2",
+                "b": "2 and 4",
+                "c": "4 and 6",
+                "d": "6 and 8",
+                "answer": "b"
+        }, {
+                "question" : "Jeremy was born with serious heart, face, and finger deformities and is showing signs of attentional problems and learning delays, most likely as a result of his mother's behaviour during pregnancy. Jeremy is most likely suffering from:",
+                "a": "amphetamine induced abnormalities.",
+                "b": "genetic abnormalities.",
+                "c": "foetal alcohol syndrome. ",
+                "d": "prenatal exposure to nicotine.",
+                "answer": "c"
+        }, {
+                "question" : "Environmental agents that harm the embryo or foetus are referred to as:",
+                "a": "toxins.",
+                "b": "teratogens.",
+                "c": "rooting factors.",
+                "d": "pharmacologicals.",
+                "answer": "b"
+        }, {
+                "question" : "Erikson was one of the first theorists to take the notion of development beyond adolescence seriously. He describes the developmental tasks confronting young adults as:",
+                "a": "identity versus identity confusion.",
+                "b": "intimacy versus isolation.",
+                "c": "industry versus inferiority.",
+                "d": "generativity versus stagnation.",
+                "answer": "b"
+        }, {
+                "question" : "In the Strange Situation experiment, a child with an avoidant attachment style is most likely to:",
+                "a": "ignore the mother when she returns.",
+                "b": "avoid any negative behaviour from the mother by hovering close to her.",
+                "c": "try to hide from the mother when she leaves the room.",
+                "d": "cry when the mother leaves, but seek closeness to her when she returns.",
+                "answer": "a"
+        }, {
+                "question" : "Jasmine has just found out that she is five weeks pregnant. This stage is known as:",
+                "a": "the prenatal period.",
+                "b": "the embryonic period.",
+                "c": "the foetal period.",
+                "d": "gestation period.",
+                "answer": "b"
+        }, {
+                "question" : "Piaget referred to ______ as the interpretation of actions or events in terms of one's present schemas.",
+                "a": "assimilation",
+                "b": "accommodation",
+                "c": "cognitive processing",
+                "d": "compromise functions",
+                "answer": "a"
+        }, {
+                "question" : "Researchers comparing a group of people who are 100 years old, to people in their 60s and 80s, must be particularly concerned with the possibility that:",
+                "a": "subjects in the oldest group may not live long enough to be followed up in the study.",
+                "b": "some subjects in the 60s and 80s groups may not live long enough to be followed up in the study.",
+                "c": "some differences among the age groups may actually be associated with differences in culture.",
+                "d": "this is not really a developmental study since all participants are adults.",
+                "answer": "c"
+        }, {
+                "question" : "Royce is demanding and disobedient, has no respect for the property or rights of others, and is impulsive, immature, and out of control. He does what he pleases with little regard for consequences. According to Baumrind, it is MOST likely that his parents are engaged in _____ parenting.",
+                "a": "abusive",
+                "b": "authoritarian",
+                "c": "authoritative",
+                "d": "permissive",
+                "answer": "d"
+        }, {
+                "question" : "The ability to know that just because I physically spread out my money, there really is not any more, is an example of:",
+                "a": "centration",
+                "b": "decentration",
+                "c": "object invariance",
+                "d": "conservation",
+                "answer": "d"
+        }, {
+                "question" : "The idea that changes in behaviour and body occur as a result of biologically based changes that follow an orderly sequence, is referred to as:",
+                "a": "development",
+                "b": "veridical transformation.",
+                "c": "maturation",
+                "d": "the Piagetian theory of development.",
+                "answer": "c"
+        }, {
+                "question" : "The zone of proximal development refers to:",
+                "a": "the influence of cultural traditions on a child's development.",
+                "b": "the development of the brain.",
+                "c": "a child achieving more understanding by socialising cooperatively than by working alone.",
+                "d": "the development that reflects a continuum of cognitive development.",
+                "answer": "d"
+        }, {
+                "question" : "To function as adults, children must learn the rules, beliefs, values, skills, attitudes, and behaviour patterns of their society, a process called:",
+                "a": "assimilation",
+                "b": "socialisation",
+                "c": "culturalisation",
+                "d": "indoctrination",
+                "answer": "b"
+        }, {
+                "question" : "To keep up with technology, many Australians had to change from using a typewriter to using a computer for word processing. A person's typing schema will have to ______ to incorporate the new techniques needed to use the new equipment.",
+                "a": "assimilate",
+                "b": "differentiate",
+                "c": "accommodate",
+                "d": "recapitulate",
+                "answer": "c"
+        }, {
+                "question" : "Which is NOT a crisis encountered during development, according to Erikson?",
+                "a": "Initiative versus guilt",
+                "b": "Industry versus inferiority",
+                "c": "Affiliation versus social isolation",
+                "d": "Autonomy versus shame and doubt",
+                "answer": "c"
+        }, {
+                "question" : "Which of the following is NOT a pattern of infant attachment?",
+                "a": "Secure",
+                "b": "Ambivalent",
+                "c": "Overly attached",
+                "d": "Disorganised",
+                "answer": "c"
+        }, 
+
+        // Conciousness 
+        {
+                "question" : "A consulting physician in the intensive care unit of a hospital is informed that the patient being seen has suffered trauma to her reticular formation. The doctor can infer that the patient is:",
+                "a": "experiencing some difficulty with vision.",
+                "b": "experiencing some difficulty with short-term memory.",
+                "c": "unconscious.",
+                "d": "paralysed",
+                "answer": "c"
+        }, {
+                "question" : "_______ are rapid and operate simultaneously, whereas _______ have limited capacity and are slower.",
+                "a": "preconscious processes; conscious processes",
+                "b": "unconscious processes; conscious processes",
+                "c": "subliminal perception; unconscious processes",
+                "d": "subliminal processes; subconscious processes",
+                "answer": "b"
+        }, {
+                "question" : "As I take my calculus exam, I ignore the important information of what will happen to my scholarship if I get too many problems wrong. This is known as:",
+                "a": "inattention",
+                "b": "parallel processing",
+                "c": "selective inattention.",
+                "d": "test anxiety.",
+                "answer": "c"
+        }, {
+                "question" : "Barbiturates and benzodiazepines are:",
+                "a": "stimulants",
+                "b": "depressants",
+                "c": "hallucinogens",
+                "d": "narcotics",
+                "answer": "b"
+        }, {
+                "question" : "Cigarette smokers report that smoking increases their arousal and alertness, while also providing a soothing effect. Nicotine has these effects on the body because it influences the:",
+                "a": "sympathetic system.",
+                "b": "parasympathetic system.",
+                "c": "both sympathetic and parasympathetic systems.",
+                "d": "none of the options listed.",
+                "answer": "c"
+        }, {
+                "question" : "During which stage of sleep does the body experience increased heart rate, rapid breathing and genital arousal?",
+                "a": "Stage 2",
+                "b": "Stage 3",
+                "c": "Stage 4",
+                "d": "REM sleep",
+                "answer": "d"
+        }, {
+                "question" : "Erin spends much of her time daydreaming about what she might do, where she might go, and thinking about her feelings and moods. Psychologists have found that her experiences are:",
+                "a": "a common and normal feature of consciousness.",
+                "b": "common in people who do not achieve much.",
+                "c": "wasteful of information processing resources.",
+                "d": "helpful in making people feel better about themselves.",
+                "answer": "a"
+        }, {
+                "question" : "Following a car accident, I find that I now have the ability to see sounds and hear touch. I am suffering from:",
+                "a": "delusions",
+                "b": "synaesthesia",
+                "c": "hallucinations",
+                "d": "cross-modality perception.",
+                "answer": "b"
+        }, {
+                "question" : "I am repressing a memory from childhood because I find it too traumatising to think about. According to Freud, which consciousness is responsible for the repression?",
+                "a": "Conscious mental processes",
+                "b": "Preconscious mental processes",
+                "c": "Unconscious mental processes",
+                "d": "None of the options listed",
+                "answer": "c"
+        }, {
+                "question" : "Olivia is participating in a study that is researching the stages of sleep. The researchers are probably using:",
+                "a": "EEG",
+                "b": "MRI",
+                "c": "hypnosis",
+                "d": "meditation",
+                "answer": "a"
+        }, {
+                "question" : "Qualitatively different patterns of subjective experience are called:",
+                "a": "states of consciousness.",
+                "b": "thoughts",
+                "c": "perceptions",
+                "d": "mental impressions.",
+                "answer": "a"
+        }, {
+                "question" : "Splitting attention between two complex tasks is known as:",
+                "a": "divided attention.",
+                "b": "split-brain attention.",
+                "c": "selective attention.",
+                "d": "dichotic attention.",
+                "answer": "a"
+        }, {
+                "question" : "Stage 2 sleep is characterised by:",
+                "a": "sleep spindles.",
+                "b": "an increase in alpha activity.",
+                "c": "the presence of delta waves.",
+                "d": "an increase in beta activity.",
+                "answer": "a"
+        }, {
+                "question" : "The deepest stage of sleep as evidenced by EEG records is:",
+                "a": "stage 1.",
+                "b": "stage 2.",
+                "c": "delta sleep.",
+                "d": "REM sleep.",
+                "answer": "c"
+        }, {
+                "question" : "The stages of sleep repeat about every ______ minutes.",
+                "a": "30",
+                "b": "50",
+                "c": "90",
+                "d": "120",
+                "answer": "c"
+        }, {
+                "question" : "Two functions of consciousness are:",
+                "a": "focusing conscious awareness; and filtering information.",
+                "b": "regulating thought and behaviour; and monitoring the self and the environment.",
+                "c": "orienting to sensory stimuli; and controlling behaviour.",
+                "d": "splitting attention between two complex tasks; and focusing conscious awareness.",
+                "answer": "b"
+        }, {
+                "question" : "When people meditate, which of the following do they tend to NOT experience:",
+                "a": "increased theta waves in the brain, which typically only occur when the person is fully asleep.",
+                "b": "focused attention on a simple stimulus.",
+                "c": "disruption of the normal flow of self-conscious inner dialogue.",
+                "d": "a loss of voluntary control over actions.",
+                "answer": "d"
+        }, {
+                "question" : "Which is true of conscious processes?",
+                "a": "They have a limited capacity.",
+                "b": "They are more flexible than unconscious processes.",
+                "c": "They can help provide the 'big picture'.",
+                "d": "All of the options listed are true of conscious processes.",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following is NOT a function of attention and consciousness?",
+                "a": "Maintaining alertness",
+                "b": "Controlling motor movements",
+                "c": "Controlling behaviour and the contents of consciousness",
+                "d": "Orienting",
+                "answer": "b"
+        }, {
+                "question" : "You are at a large family gathering and while talking to your grandmother, you suddenly hear your name mentioned in a conversation across the room, followed by laughter. This is an example of attentional filtering, and has been called the:",
+                "a": "divided attention theory.",
+                "b": "the attention-distraction theory.",
+                "c": "the cocktail party phenomenon.",
+                "d": "the paranoia theory of attention.",
+                "answer": "c"
+        }, 
+        // Motivation And Emotion
+        {
+                "question" : "Abraham Maslow proposed the ______ approach to motivation:",
+                "a": "hierarchy of needs",
+                "b": "self-actualisation",
+                "c": "goal-setting theory",
+                "d": "expectancy-value theory",
+                "answer": "a"
+        }, {
+                "question" : "According to Maslow's view of motivation, if you haven't eaten all day, your thoughts will be MOST focused on your:",
+                "a": "self-esteem",
+                "b": "physical safety",
+                "c": "physiological needs",
+                "d": "sense of belonging",
+                "answer": "c"
+        }, {
+                "question" : "According to the evolutionary perspective, emotions serve:",
+                "a": "an adaptive function",
+                "b": "a biological function",
+                "c": "an internalising function",
+                "d": "all of the options listed",
+                "answer": "a"
+        }, {
+                "question" : "Assume that you want to perform well on this test, but you feel anxious about your ability to do so. In this case, your desire to perform well is related to your _____ state, while your anxiety is related to your _____ state.",
+                "a": "conscious; unconscious",
+                "b": "unconscious; conscious",
+                "c": "motivational; emotional",
+                "d": "emotional; motivational",
+                "answer": "c"
+        }, {
+                "question" : "Deci's self-determination theory argues that people have innate needs. Which is NOT one of them?",
+                "a": "Competence",
+                "b": "Autonomy",
+                "c": "Expectancies",
+                "d": "Relatedness to others",
+                "answer": "c"
+        }, {
+                "question" : "Emotion regulation is associated with",
+                "a": "reframing the meaning of an event",
+                "b": "suppression of emotion",
+                "c": "regulation of moods",
+                "d": "all of the options listed",
+                "answer": "d"
+        }, {
+                "question" : "For the past few days, Patrick has been feeling generally listless and uninterested in things he normally is interested in. Psychologists would term his experience of listlessness his current:",
+                "a": "emotion",
+                "b": "mood",
+                "c": "arousal",
+                "d": "affect",
+                "answer": "b"
+        }, {
+                "question" : "If we break down the concept of motivation, we would find that we need to consider:",
+                "a": "what people want to do.",
+                "b": "the goals they wish to pursue.",
+                "c": "how strongly they want to do it.",
+                "d": "all of the options listed.",
+                "answer": "d"
+        }, {
+                "question" : "I see a movie in the movie theatre and think it is okay. I see it a few more times on television. I realise that the more I see it, the more I think it is a good movie. I could be exemplifying the:",
+                "a": "familiarity effect.",
+                "b": "mere exposure effect.",
+                "c": "emotional repetition.",
+                "d": "multi-experiential phenomenon.",
+                "answer": "b"
+        }, {
+                "question" : "Kerry spends a lot of time reading because she enjoys reading books. It could be argued that Kerry reads because of ______.",
+                "a": "extrinsic motivation",
+                "b": "intrinsic motivation",
+                "c": "primary drives",
+                "d": "self-determination",
+                "answer": "b"
+        }, {
+                "question" : "Peter is studying creative writing. He is not doing it to get the diploma that comes at the end of his program. Rather, his primary purpose is to become a better writer. His goal would be described as a:",
+                "a": "mastery-avoidance goal.",
+                "b": "performance-avoidance goal.",
+                "c": "performance goal.",
+                "d": "mastery goal.",
+                "answer": "d"
+        }, {
+                "question" : "The belief that neutral stimuli become associated with the reduction of drives, such as hunger, and thus themselves become motivators is tied to which of the following?",
+                "a": "Implicit motivation",
+                "b": "Goals",
+                "c": "Secondary drives",
+                "d": "All of the options listed",
+                "answer": "c"
+        }, {
+                "question" : "The idea that emotion is associated with physiological arousal and cognitive interpretation is tied to the _____ of emotion.",
+                "a": "Schachter-Singer theory",
+                "b": "James-Lange theory",
+                "c": "psychodynamic model",
+                "d": "psychosocial model",
+                "answer": "a"
+        }, {
+                "question" : "The reasons for smiling may differ from culture to culture. For instance, in Japan people may smile when they are confused or angry. In Russia, it is considered bad manners to smile without a significant reason. Tourists have problems in Japan and Russia because of difficulty with:",
+                "a": "basic emotion rules",
+                "b": "display rules",
+                "c": "positive and negative affect",
+                "d": "the cross-cultural theory of emotional display",
+                "answer": "b"
+        }, {
+                "question" : "Among the needs for agency, _______ refers to the need to do well, to succeed, and to avoid failure:",
+                "a": "achievement",
+                "b": "affiliation",
+                "c": "exceptionality",
+                "d": "superiority",
+                "answer": "a"
+        }, {
+                "question" : "Among the various needs for relatedness, which of the following is a social motive characterised by desire for interaction with friends or acquaintances?",
+                "a": "Friendship",
+                "b": "Affiliation",
+                "c": "Intimacy",
+                "d": "Fraternisation",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following is NOT a component of motivation?",
+                "a": "What people want to do",
+                "b": "Physiological arousal",
+                "c": "How strongly they want to do it",
+                "d": "The goals they wish to pursue",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following is not generally considered one of the primary, basic, emotions?",
+                "a": "Surprise",
+                "b": "Fear",
+                "c": "Happiness",
+                "d": "Boredom",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following is NOT true of theories of emotion?",
+                "a": "The Cannon-Bard theory states that emotion-inducing stimuli simultaneously elicit an emotional experience, and bodily responses",
+                "b": "The James-Lange theory states that emotion originates with peripheral arousal, which people then label as an emotional state",
+                "c": "In general, different emotions are associated with distinct patterns of emotional activation",
+                "d": "Individuals are mostly the same in the intensity of their emotional states",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following would NOT support the development of intrinsic motivation?",
+                "a": "Autonomy and independence",
+                "b": "Supportive environment",
+                "c": "Praise",
+                "d": "Cash payment as a reward",
+                "answer": "d"
+        }, 
+        
+        // sensation and Perception
+        {
+                "question" : "Absolute threshold is the:",
+                "a": "point at which physical energy is converted to stimulus information via the jnd.",
+                "b": "difference between the arithmetic variable of a stimulus and its geometric response.",
+                "c": "absolute value of a difference threshold which demonstrates exponential variance.",
+                "d": "minimum amount of physical energy needed for a person to notice a stimulus.",
+                "answer": "d"
+        }, {
+                "question" : "Although each sensory system is attuned to particular forms of energy, all the senses share certain common features. Which of the following is NOT one of them?",
+                "a": "Sensation requires constant decision making",
+                "b": "Sensing the world requires the ability to detect changes in stimulation",
+                "c": "Sensing the world requires knowledge of the world",
+                "d": "Efficient sensory processing means 'turning down the volume' on information that is redundant",
+                "answer": "c"
+        }, {
+                "question" : "Brenda smells coffee brewing, sees a mountain scene as she waits for it to be poured, and listens to the early morning call of a magpie. Though all of these sensations start as different forms of physical energy (chemical, electromagnetic, air pressure waves), they all end up as patterns of neural impulses. This process of changing the physical energy into neural impulses is called:",
+                "a": "transformation",
+                "b": "perception",
+                "c": "sensation",
+                "d": "transduction",
+                "answer": "d"
+        }, {
+                "question" : "dB is a measure of _________________.",
+                "a": "pitch",
+                "b": "sound pressure",
+                "c": "retinal disparity",
+                "d": "vision",
+                "answer": "b"
+        }, {
+                "question" : "I hear a review of a movie and then see it. If my perception of that movie is influenced by the reviews that I have heard, then this would support:",
+                "a": "top-down processing.",
+                "b": "bottom-up processing.",
+                "c": "parallel processing.",
+                "d": "serial processing.",
+                "answer": "a"
+        }, {
+                "question" : "Monocular cues to depth perception include:",
+                "a": "interposition",
+                "b": "linear perspective.",
+                "c": "shading",
+                "d": "all of the options listed",
+                "answer": "d"
+        }, {
+                "question" : "People with prosopagnosia have difficulty:",
+                "a": "recognising familiar faces.",
+                "b": "finding objects in space.",
+                "c": "seeing objects clearly.",
+                "d": "smelling perfumes.",
+                "answer": "a"
+        }, {
+                "question" : "Ryan has been woken at night by his wife who says she can just hear a strange, high-pitched beeping noise. He listens as carefully as he can and sometimes thinks he can hear the noise but isn't sure whether he is just imagining it. There is a good chance that the noise is around Ryan's __________ for sound of that frequency.",
+                "a": "difference threshold",
+                "b": "perceptual limit",
+                "c": "absolute threshold",
+                "d": "frequency threshold",
+                "answer": "c"
+        }, {
+                "question" : "The centre of the retina, which is most sensitive to small detail, is known as the:",
+                "a": "bipolar cells.",
+                "b": "rods",
+                "c": "fovea",
+                "d": "optic nerve.",
+                "answer": "c"
+        }, {
+                "question" : "The idea of figure-ground refers to:",
+                "a": "distinguishing the relevant object from the background sensation.",
+                "b": "a visual understanding of how an object looks against the background.",
+                "c": "determining how high the figure is from the ground",
+                "d": "all of the options listed.",
+                "answer": "a"
+        }, {
+                "question" : "The idea that there must be a constant proportion between two stimuli for an individual to know that the two stimuli are indeed different, is known as:",
+                "a": "Weber's law.",
+                "b": "Fechner's law.",
+                "c": "Steven's power law.",
+                "d": "Müller's doctrine of specific nerve energies. ",
+                "answer": "a"
+        }, {
+                "question" : "The process by which we gather information from the environment is known as __________; the process by which we organise and understand that information is known as __________.",
+                "a": "psychophysics; kinaesthetics",
+                "b": "sensation; perception",
+                "c": "proprioception; interception",
+                "d": "perception; sensation",
+                "answer": "b"
+        }, {
+                "question" : "The psychological property corresponding to frequency is known as:",
+                "a": "pitch",
+                "b": "timbre",
+                "c": "loudness",
+                "d": "amplitude",
+                "answer": "a"
+        }, {
+                "question" : "The three bones of the middle ear do not include:",
+                "a": "incus",
+                "b": "Eustachian",
+                "c": "stapes",
+                "d": "malleus",
+                "answer": "b"
+        }, {
+                "question" : "The three psychological characteristics of sound are:",
+                "a": "amplitude, loudness and pitch.",
+                "b": "pitch, frequency and timbre.",
+                "c": "timbre, complexity and loudness.",
+                "d": "pitch, loudness and timbre.",
+                "answer": "d"
+        }, {
+                "question" : "What are the two proprioceptive senses?",
+                "a": "Sweet; sour",
+                "b": "Kinaesthesia; vestibular",
+                "c": "Touch; feeling",
+                "d": "Taste buds, papillae",
+                "answer": "b"
+        }, {
+                "question" : "What can I expect of a sound that is louder than another sound?",
+                "a": "The distance from one sound wave to another is larger",
+                "b": "The number of air molecules is greater in the louder sound",
+                "c": "The sound waves of the louder sound are higher than the sound waves of the softer sound",
+                "d": "Multiple frequencies",
+                "answer": "c"
+        }, {
+                "question" : "What is the pathway visual information takes, after it travels along the optic nerve:",
+                "a": "optic chiasm, lateral geniculate nucleus, primary visual cortex.",
+                "b": "primary visual cortex, optic chiasm, lateral geniculate nucleus.",
+                "c": "superior colliculus, primary visual cortex, optic chiasm.",
+                "d": "optic chiasm, superior colliculus, primary visual cortex.",
+                "answer": "a"
+        }, {
+                "question" : "When you look out the window of a moving car, you see trees passing very quickly. However, when you look straight ahead, the trees appear to be moving much more slowly. This phenomenon is known as:",
+                "a": "motion parallax.",
+                "b": "distance perception.",
+                "c": "binocular motion perception.",
+                "d": "sensory incongruence.",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following is NOT an important function of smell?",
+                "a": "It is used for communication, at least in humans",
+                "b": "It enables us to detect danger",
+                "c": "It helps to discriminate palatable from unpalatable foods",
+                "d": "It helps to recognise familiar odours",
+                "answer": "a"
+        }, 
+
+        // Mid Tri Quiz
+        
+        {
+                "question" : "David emphasised the importance of personal growth and human potential in his essay. He is most likely referring to which perspective of psychology?",
+                "a": "Cognitive",
+                "b": "Evolutionary",
+                "c": "Psychodynamic",
+                "d": "Humanistic",
+                "answer": "d"
+        }, {
+                "question" : "The primary method of investigation for the behaviourist perspective is:",
+                "a": "observation",
+                "b": "case study.",
+                "c": "experimentation",
+                "d": "deduction",
+                "answer": "c"
+        }, {
+                "question" : "The two schools of thought that were very influential in the earliest years of psychology are: ",
+                "a": "introspection and structuralism.",
+                "b": "structuralism and functionalism. ",
+                "c": "consciousness and paradigm.",
+                "d": "functionalism and experimentalism",
+                "answer": "b"
+        }, {
+                "question" : "My essay examines the relationship between conscious awareness and unconscious mental forces being analogous to the visible tip of an iceberg and the vast, submerged hulk that lies out of sight beneath the water. This notion best fits with which of the following perspectives? ",
+                "a": "Psychodynamic",
+                "b": "Behaviourist",
+                "c": "Cognitive",
+                "d": "Evolutionary",
+                "answer": "a"
+        }, {
+                "question" : "Psychology arose initially from: ",
+                "a": "physics",
+                "b": "cosmology",
+                "c": "religion",
+                "d": "philosophy",
+                "answer": "d"
+        }, {
+                "question" : "I am interested in whether energy drinks help men to run faster. I assign one group of men to drink two energy drinks and another group of men to drink no energy drinks. Then I get all participants to run 1km and measure the time taken for each person to run the distance. Which statement is true?",
+                "a": "Energy Drink consumption is the dependent variable and running time is the independent variable.",
+                "b": "Energy Drink consumption is the independent variable and running time is also the independent variable.",
+                "c": "Energy Drink consumption is the dependent variable and running time is also the dependent variable.",
+                "d": "Energy Drink consumption is the independent variable and running time is the dependent variable. ",
+                "answer": "d"
+        }, {
+                "question" : "Lewis wants to see whether vitamin D supplementation influences mood. Lewis hires John to prepare identical looking vitamin D and placebo pills in identical bottles that are labelled with A and B so Lewis and the participants cannot know which bottles contain vitamin D and which contain the placebo. This is an example of a(n)",
+                "a": "double-blind design",
+                "b": "single-blind design",
+                "c": "unblended design",
+                "d": "half-blind design",
+                "answer": "a"
+        }, {
+                "question" : "Which of these is the best example of a potential confound?",
+                "a": "All of the males were assigned to the treatment group and all of the females were assigned to the control group.",
+                "b": "In one study an effect was examined in a sample consisting of only males.",
+                "c": "There were an equal number of males and females in the experiment.",
+                "d": "After recruitment there were more females than males in the sample.",
+                "answer": "a"
+        }, {
+                "question" : "I am looking at the effectiveness of caffeine as a cognitive performance enhancer. I run an experiment where I randomly assign some students to take caffeine tablets before the exam and some students to take a placebo pill that they think is a performance enhancer before the exam. Students who took the caffeine pill performed better on the exam than students who took the placebo pill. Assuming that this is a perfectly controlled study, which of these statements is most correct?",
+                "a": "We can conclude that caffeine causes better exam performance.",
+                "b": "The exam caused people to take caffeine pills.",
+                "c": "This study adopted a correlational design.",
+                "d": "There is a confound in the design because students could not choose which pill to take.",
+                "answer": "a"
+        }, {
+                "question" : "I am interested in whether energy drinks help men run faster. I assign one group of men to drink two energy drinks and another group of men to drink no energy drinks. Then I get all participants to run together in a 1km running race and measure the time they took to run the race. What type of scale is running performance measured on?",
+                "a": "Ordinal",
+                "b": "Nominal",
+                "c": "Ratio",
+                "d": "Interval",
+                "answer": "c"
+        }, {
+                "question" : "If I am interested in how much Australians watch television, which of the following statements is most correct?",
+                "a": "All the students in PSYC101 would be a sample and all students at UNE would be the population",
+                "b": "All UNE students would be a sample and PSYC101 students would be the population.",
+                "c": "All Australians would be the sample and all UNE students would be the population.",
+                "d": "All UNE students would be a sample and all Australians would be the population.",
+                "answer": "d"
+        }, {
+                "question" : "As a person’s age increases, their scores on a memory scale decrease. This is an example of a __________.",
+                "a": "positive relationship",
+                "b": "zero order relationship",
+                "c": "negative relationship",
+                "d": "quadratic relationship",
+                "answer": "c"
+        }, {
+                "question" : "Reliability in a measurement:",
+                "a": "is the measure's ability to measure what it says it measures.",
+                "b": "is the measure's tendency to give the same result from one occasion to the next.",
+                "c": "is not a very important characteristic in psychological measurement.",
+                "d": "can only be guessed at.",
+                "answer": "b"
+        }, {
+                "question" : "If the finding of my study can be generalised to situations outside the laboratory, the study has: ",
+                "a": "internal consistency. ",
+                "b": "internal validity. ",
+                "c": "external consistency. ",
+                "d": "external validity.",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following represents the STRONGEST correlation?",
+                "a": "+.01",
+                "b": "+.39",
+                "c": "-.53",
+                "d": "-.12",
+                "answer": "c"
+        }, {
+                "question" : "To operationalise the variables means to: ",
+                "a": "divide participants into groups who experience different conditions of the dependent variables.",
+                "b": "turn abstract concepts into concrete variables that are defined by some set of actions or operations.",
+                "c": "offset the many sources of bias that can affect the results of a study. ",
+                "d": "select samples that are as representative as possible of the population of interest.",
+                "answer": "b"
+        }, {
+                "question" : "Which one of the following conditions must be met in order for deception to be used in an experiment?",
+                "a": "Participants can withdraw from the experiment at any time",
+                "b": "All of the options listed are correct.",
+                "c": "The research is important and cannot be conducted without deception ",
+                "d": "Experimenters debrief the participants afterwards",
+                "answer": "b"
+        }, {
+                "question" : "You are participating in an experiment as part of your psychology class. After half an hour, you are unsure whether you want to continue with the experiment. According to the principle of informed consent, when you ask the researcher if you have to continue, the researcher should respond with: ",
+                "a": "'I'm sorry, the experiment must continue.'",
+                "b": "'You have the right to withdraw from the study at any time.'",
+                "c": "'Please continue. I will debrief you afterwards.'",
+                "d": "'You may withdraw from the study now, but you will not be able to sit the final examination in this course.' ",
+                "answer": "b"
+        }, {
+                "question" : "During split-brain surgery, which part of the brain is cut?",
+                "a": "Pons",
+                "b": "Thalamus",
+                "c": "Corpus callosum",
+                "d": "Associate cortex",
+                "answer": "c"
+        }, {
+                "question" : "An inhibitory post synaptic potential is one that makes an action potential ____________.",
+                "a": "grow a new neuron",
+                "b": "less likely in the postsynaptic cell",
+                "c": "equally likely in the postsynaptic cell",
+                "d": "more likely in the postsynaptic cell",
+                "answer": "b"
+        }, {
+                "question" : "Communication from one neuron to another is initiated by:",
+                "a": "release of positive ions.",
+                "b": "action potentials along the dendrites.",
+                "c": "neurotransmitters being released in the synapse",
+                "d": "ion exchange across the synapse.",
+                "answer": "c"
+        }, {
+                "question" : "All-or-none is to ________ as proportion of stimulus size is to ______. ",
+                "a": "graded potential, resting potential ",
+                "b": "action potential, graded potential ",
+                "c": "resting potential, graded potential ",
+                "d": "graded potential, action potential",
+                "answer": "b"
+        }, {
+                "question" : "Within a neuron, the direction of the nerve impulse moves from: ", //23
+                "a": "dendrite to cell body to axon. ",
+                "b": "axon to cell body to dendrites. ",
+                "c": "dendrites to axon to nucleus. ",
+                "d": "axon hillock to dendrites to terminal buttons. ",
+                "answer": "a"
+        }, {
+                "question" : "Which lobe of the cerebral cortex contains the visual cortex?",
+                "a": "The parietal lobe",
+                "b": "The occipital lobe",
+                "c": "The frontal lobe",
+                "d": "The temporal lobe",
+                "answer": "b"
+        }, 
         // {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
+        //         "question" : " ", //25
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
