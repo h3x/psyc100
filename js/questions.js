@@ -1271,197 +1271,404 @@ let $questions = [
                 "c": "The frontal lobe",
                 "d": "The temporal lobe",
                 "answer": "b"
+        }, {
+                "question" : "Lynn has a disease called multiple sclerosis (MS) that makes her muscle coordination difficult and produces jerky uncoordinated movement. MS results from:", //25
+                "a": "progressive deterioration of the myelin sheath.",
+                "b": "a lack of electrolytes in the brain.",
+                "c": "two nuclei in some neurons.",
+                "d": "a tumour in the cerebellum.",
+                "answer": "a"
+        }, {
+                "question" : "Andrew had completed about a quarter of the distance in the marathon in which he was a participant. Suddenly, he stumbled and fell. Despite feeling a sharp pain initially, he got up and continued to run until he completed the race. Upon crossing the finish line, he fell down writhing in pain. When checked out, it was discovered that Andrew had broken his leg. He was able to run the remainder of the marathon relatively pain free due to the release of _____________.",
+                "a": "monoamines",
+                "b": "serotonin",
+                "c": "endorphins",
+                "d": "neuropeptides",
+                "answer": "c"
+        }, {
+                "question" : "Sophie and Isabelle are twins who were separated at birth. A researcher interested in studying heredity locates them and speaks to their different families about the benefits that can be achieved by studying the two young girls. The girls and their different sets of parents agree to participate, and studies begin to assess various areas of the girls' lives. In order for this type of twin study to be most effective, what kind of twins should Sophie and Isabelle be?",
+                "a": "Monozygotic",
+                "b": "Dizygotic",
+                "c": "Amorphous",
+                "d": "Conjoined",
+                "answer": "a"
+        }, {
+                "question" : "Mari is now in a coma after a car accident. She most likely experienced damage to her:",
+                "a": "Amygdala",
+                "b": "Reticular formation",
+                "c": "Thalamus",
+                "d": "Medulla oblongata",
+                "answer": "b"
+        }, {
+                "question" : "The field of behaviour genetics primarily studies the: ",
+                "a": "role of genetics in shaping mental processes and behaviour. ",
+                "b": "impact of genetic determination on the behaviour of twins. ",
+                "c": "degrees of relatedness of DZ twins and their siblings.",
+                "d": "role of behaviour in the development of genetically encoded DNA. ",
+                "answer": "a"
+        }, {
+                "question" : "In mice, black fur is the dominant allele (A) and white fur is the recessive allele (a). A baby mouse has a mother with the genotype (AA) and a father with the genotype (aa). What genotype will the baby mouse have?",
+                "a": "homozygotic",
+                "b": "There is not enough information to say",
+                "c": "Black fur",
+                "d": "Aa",
+                "answer": "d"
+        }, {
+                "question" : "The term 'heritability' refers to _________________.",
+                "a": "genetic influences on variability among individuals",
+                "b": "the extent to which a trait is caused by measurement error",
+                "c": "the degree to which MZ twins and siblings differ on a particular trait",
+                "d": "the degree to which various relatives share genetic material",
+                "answer": "a"
+        }, {
+                "question" : "When you see your friend she often kicks you in the shins. One day, you see your friend approaching and flinch before she even tries to kick you. Which statement is most correct?", //32
+                "a": "Your friend is the UCR, the kick is the UCS, you flinching is the CR",
+                "b": "Your friend is the CS, the kick is the CR, you flinching is the UCR",
+                "c": "Your friend is the UCS, the kick is the CS, you flinching is the CR",
+                "d": "Your friend is the CS, the kick is the UCS, you flinching is the CR",
+                "answer": "d"
+        }, {
+                "question" : "A teacher wants to improve class behaviour. Which reinforcement schedule should she choose when giving praise to her students to best maintain their good behaviour?",
+                "a": "A fixed partial reinforcement schedule",
+                "b": "A continuous reinforcement schedule",
+                "c": "All of these reinforcement schedules will be equally effective",
+                "d": "A variable partial reinforcement schedule",
+                "answer": "d"
+        }, {
+                "question" : "Janine smacks her dog, Luna, when Luna digs holes in the lawn to try and make Luna dig holes less often. This is an example of ___________.",
+                "a": "negative punishment",
+                "b": "positive reinforcement",
+                "c": "negative reinforcement",
+                "d": "positive punishment",
+                "answer": "d"
+        }, {
+                "question" : "Josie's parents want her to put her toys in her toy box. At first, they praise her for putting the toys together in one pile. Then they only praise her for getting the toys on the same side of the room as the toy box. Then she only gets praised when she puts toys somewhere on the toy box. Finally, her parents only praise her when she puts her toys in the correct place in the toy box. This is an example of ________.",
+                "a": "Extinction",
+                "b": "Shaping",
+                "c": "Punishment",
+                "d": "Negative reinforcement",
+                "answer": "b"
+        }, {
+                "question" : "When using punishment, you should:",
+                "a": "make sure the person being punished is reinforced for alternative, acceptable behaviours.",
+                "b": "Increase the intensity of the punishment over time.",
+                "c": "make the punishment fairly severe.",
+                "d": "administer the punishment using a variable interval schedule.",
+                "answer": "a"
+        }, {
+                "question" : "Which of these is an example of observational learning?",
+                "a": "I suddenly realise how to solve a problem.",
+                "b": "Daina has never cooked a roast before. She watches an episode of Jamie Oliver where he cooks a roast and now Daina can cook a roast.",
+                "c": "A cricketer practices bowling over and over again and refines their technique based on what makes their bowls faster and more accurate.",
+                "d": "I flinch when my brother punches me.",
+                "answer": "b"
+        }, {
+                "question" : "A retail worker gets a bonus for every fifth washing machine they sell. This is an example of a _________.",
+                "a": "Fixed ratio reinforcement schedule",
+                "b": "Fixed interval reinforcement schedule",
+                "c": "Variable ratio reinforcement schedule",
+                "d": "Variable interval reinforcement schedule",
+                "answer": "a"
+        }, {
+                "question" : "Which of these is an example of taste aversion learning.",
+                "a": "Rachel eats a banana because she feels her blood sugar is low. ",
+                "b": "Nick has never liked the taste of coriander.",
+                "c": "Jim used to hate olives but he has learned to love them.",
+                "d": "The first time Sasha ate pineapple she got food poisoning. Now she can’t stand the taste of pineapple. ",
+                "answer": "d"
+        }, {
+                "question" : "Sally is scared of cats because a cat bit her many years ago. Sally's therapist helps her to get exposure over time to many cats who do not bite. Which classical conditioning principle is the therapist using?",
+                "a": "Extinction",
+                "b": "Punishment",
+                "c": "Positive reinforcement",
+                "d": "Unlearning",
+                "answer": "a"
         }, 
+        
+        // End of tri quiz
+        {
+                "question" : "Ezume is trying to remember all of the items on his shopping list. Which items is he most likely to remember?",
+                "a": "Only items at the end of the list.",
+                "b": "Items in the middle (but not the items at the beginning or the end)",
+                "c": "Items at the beginning and the end (but not items in the middle)",
+                "d": "Ezume is equally likely to remember all items",
+                "answer": "c"
+        }, {
+                "question" : "For students to show the best performance in their exams, they are advised to engage in __________.",
+                "a": "massed practice",
+                "b": "none of the other options listed are correct",
+                "c": "delayed practice",
+                "d": "distributed practice",
+                "answer": "d"
+        }, {
+                "question" : "________ is the first process of getting information into memory.",
+                "a": "Extinction",
+                "b": "Encoding",
+                "c": "Elaboration",
+                "d": "Memorisation",
+                "answer": "b"
+        }, {
+                "question" : "Mina remembers that the second Prime Minister of Australia is Alfred Deakin. What kind of memory is this?",
+                "a": "Episodic",
+                "b": "Semantic",
+                "c": "Non-declarative",
+                "d": "Sensory/Perceptual",
+                "answer": "b"
+        }, {
+                "question" : "Peter is studying for his psychology exam at home in his office. According to the encoding specificity principle, in which location is Peter going to retrieve the information most effectively?",
+                "a": "At home in his office",
+                "b": "At the exam room",
+                "c": "At the beach",
+                "d": "Peter should be able to recall the information equally effectively in all locations",
+                "answer": "a"
+        }, {
+                "question" : "The Magic Number of short-term memory is ___________.",
+                "a": "seven plus or minus two.",
+                "b": "five plus or minus three.",
+                "c": "nine plus or minus two.",
+                "d": "fifteen plus or minus two.",
+                "answer": "a"
+        }, {
+                "question" : "An essay exam question or a fill-in-the-blanks question with no word bank is similar to the ________ method of assessing one's memory.",
+                "a": "recognition",
+                "b": "recall",
+                "c": "priming",
+                "d": "relearning",
+                "answer": "b"
+        }, {
+                "question" : "Frank doesn’t speed when he is driving because he does not want to get a fine. Which level of moral development is Frank’s reasoning and motivation an example of?",
+                "a": "Conventional",
+                "b": "Moral-convictional ",
+                "c": "Pre-conventional",
+                "d": "Post-conventional ",
+                "answer": "c"
+        }, {
+                "question" : "Which of the following is the correct sequence of stages of prenatal development?",
+                "a": "germinal; embryonic; foetal",
+                "b": "embryonic; germinal; foetal",
+                "c": "foetal; embryonic; germinal",
+                "d": "germinal; foetal; embryonic",
+                "answer": "a"
+        }, {
+                "question" : "Environmental agents that harm the embryo or foetus are referred to as:",
+                "a": "rooting factors.",
+                "b": "pharmacologicals.",
+                "c": "teratogens",
+                "d": "toxins",
+                "answer": "c"
+        }, {
+                "question" : "Piaget referred to the process of modifying schemas to fit reality as:",
+                "a": "assimilation",
+                "b": "adaptation",
+                "c": "equilibration",
+                "d": "accommodation",
+                "answer": "d"
+        }, {
+                "question" : "When touched on the cheek, baby Jenny, who is only a few hours old, turns her head and opens her mouth. Which reflex is this?",
+                "a": "The Babinski reflex",
+                "b": "The sucking reflex",
+                "c": "The Moro reflex",
+                "d": "The rooting reflex",
+                "answer": "d"
+        }, {
+                "question" : "Which is NOT a crisis encountered during development, according to Erikson?",
+                "a": "Affiliation versus social isolation",
+                "b": "Industry versus inferiority",
+                "c": "Initiative versus guilt",
+                "d": "Autonomy versus shame and doubt",
+                "answer": "a"
+        }, {
+                "question" : "Which of these describes a parent with an Authoritative parenting style?",
+                "a": "Supportive but sets clear firm limits.",
+                "b": "Neglectful; ignores child’ pays little attention to their positive or negative behaviour.",
+                "c": "Lenient; uses discipline sparingly; showers child with affection.",
+                "d": "Strict and punishes child when they don’t respond appropriately to demands; shows little affection.",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following is a function of attention and consciousness?",
+                "a": "Controlling behaviour and the contents of consciousness",
+                "b": "Maintaining alertness",
+                "c": "Orienting",
+                "d": "All of the options listed are functions of attention and consciousness",
+                "answer": "d"
+        }, {
+                "question" : "_______ are rapid and operate simultaneously, whereas _______ have limited capacity and are slower.", //16
+                "a": "subliminal perception; unconscious processes",
+                "b": "preconscious processes; conscious processes",
+                "c": "subliminal processes; subconscious processes",
+                "d": "unconscious processes; conscious processes",
+                "answer": "d"
+        }, {
+                "question" : "A cinema shows ads where the words 'buy popcorn' flash up on the screen too quickly for viewers to be aware of. Which phenomenon is this cinema trying to make use of?",
+                "a": "Blindsight",
+                "b": "Conscious mental processes",
+                "c": "Subliminal perception",
+                "d": "Daydreaming",
+                "answer": "c"
+        }, {
+                "question" : "When delta waves comprise more than 50 percent of recorded brain activity, a person has entered _______ sleep.",
+                "a": "stage 4",
+                "b": "stage 1",
+                "c": "stage 3",
+                "d": "stage 2",
+                "answer": "a"
+        }, {
+                "question" : "During which stage of sleep does the body experience increased heart rate, rapid breathing, and genital arousal?",
+                "a": "REM sleep",
+                "b": "Stage 3",
+                "c": "Stage 4",
+                "d": "Stage 2",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following psychoactive drugs fall into the 'stimulant' category?",
+                "a": "Caffeine",
+                "b": "Opiates ",
+                "c": "LSD",
+                "d": "PCP",
+                "answer": "a"
+        }, {
+                "question" : "Alcohol is considered to be _________________.",
+                "a": "a depressant, because it frequently leaves drinkers feeling depressed ",
+                "b": "a depressant, because it slows down the nervous system ",
+                "c": "a stimulant, because it makes the drinker less inhibited",
+                "d": "both a stimulant and a depressant",
+                "answer": "b"
+        }, {
+                "question" : "Hypnotic analgesia is _________________.",
+                "a": "mediated by the brains endogenous opioid systems",
+                "b": "unrelated to hypnotic susceptibility",
+                "c": "not clinically effective for pain control in childbirth",
+                "d": "the most widely used clinical application of hypnosis",
+                "answer": "d"
+        }, {
+                "question" : "Hypnotic suggestions to revive memories _________________.",
+                "a": "produce no new useful information",
+                "b": "should not be relied upon by courts, as they are liable to induce believed-in pseudo-memories",
+                "c": "induce a form of regression where the person may return to an earlier stage of development",
+                "d": "remain a standard tool for police investigators",
+                "answer": "b"
+        }, {
+                "question" : "When people meditate, which of the following do they tend to NOT experience:",
+                "a": "increased theta waves in the brain, which typically only occur when the person is fully asleep",
+                "b": "focused attention on a simple stimulus.",
+                "c": "disruption of the normal flow of self-conscious inner dialogue.",
+                "d": "a loss of voluntary control over actions.",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following is NOT a component of motivation?",
+                "a": "How strongly they want to do it",
+                "b": "What people want to do",
+                "c": "The goals they wish to pursue",
+                "d": "Physiological arousal",
+                "answer": "d"
+        }, {
+                "question" : "Which of the following is NOT considered to be a primary need or drive?",
+                "a": "Sex",
+                "b": "Social approval",
+                "c": "Hunger",
+                "d": "Thirst",
+                "answer": "b"
+        }, {
+                "question" : "Suzanne and Brent have both been studying statistics for a trimester. Suzanne is doing it as part of her course in psychology. Her real interest is not in statistics, but rather in becoming an educational psychologist. Brent is also doing the statistics course because he really enjoys learning new mathematical concepts. Which person is intrinsically motivated to study statistics?",
+                "a": "Neither Suzanne nor Brent",
+                "b": "Both Suzanne and Brent",
+                "c": "Suzanne",
+                "d": "Brent",
+                "answer": "d"
+        }, {
+                "question" : "Jan attends softball training weekly because she enjoys spending time with her team mates. According to Self-Determination theory, Jan’s behaviour is driven by the desire to fulfil which psychological need?",
+                "a": "Autonomy",
+                "b": "Competence",
+                "c": "Relatedness",
+                "d": "Friendship",
+                "answer": "c"
+        }, {
+                "question" : "Stacey has applied for two jobs and she is offered both of them. She can only chose one. What type of motivational conflict does this describe?",
+                "a": "Approach-avoidance conflict",
+                "b": "Avoidance-avoidance conflict",
+                "c": "Approach-approach conflict",
+                "d": "Work-life conflict",
+                "answer": "c"
+        }, {
+                "question" : "I generally try to actualise my potential to be the best person I can be. When I lose my job, however, I focus on physiological needs. According to Maslow’s Hierarchy of Needs, once my physiological needs are satisfied, which needs am I likely to work on satisfying next: ",
+                "a": "emotional validation needs.",
+                "b": "belongingness needs.",
+                "c": "self-actualisation needs.",
+                "d": "safety needs.",
+                "answer": "d"
+        }, {
+                "question" : "The __________ theory argues that emotion-inducing stimuli simultaneously elicit both an emotional experience and bodily responses.",
+                "a": "James-Lange",
+                "b": "Cannon-Bard",
+                "c": "Masters and Johnson",
+                "d": "Emotional hierarchy",
+                "answer": "b"
+        }, {
+                "question" : "I see a movie in the movie theatre and think it is okay. I see it a few more times on television. I realise that the more I see it, the more I think it is a good movie. I could be exemplifying the:",
+                "a": "familiarity effect.",
+                "b": "mere exposure effect.",
+                "c": "multi-experiential phenomenon.",
+                "d": "emotional repetition",
+                "answer": "b"
+        }, {
+                "question" : "According to the Broaden and Build Theory __________.",
+                "a": "negative emotions lead to broadened mindsets",
+                "b": "positive emotions motivate activities that help build resources",
+                "c": "negative emotions result in the building of resources that allow better coping",
+                "d": "broadened mindsets interfere with adjustment",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following is true regarding curiosity?",
+                "a": "Autonomy decreases curiosity.",
+                "b": "Curiosity is a negative emotion.",
+                "c": "Curiosity is associated with less creativity.",
+                "d": "Curiosity motivates people to want to know and learn.",
+                "answer": "d"
+        }, {
+                "question" : "Which of these effects or illusions is an example of cross-modal processing (e.g. integration of sounds and vision)?",
+                "a": "The dress illusion",
+                "b": "The Yanny-Laurel illusion",
+                "c": "The McGurk Effect",
+                "d": "The Induced Movement Effect",
+                "answer": "c"
+        }, {
+                "question" : "The psychological property corresponding to frequency is known as:",
+                "a": "pitch",
+                "b": "loudness",
+                "c": "timbre",
+                "d": "amplitude",
+                "answer": "a"
+        }, {
+                "question" : "Monocular cues to depth perception include:",
+                "a": "linear perspective",
+                "b": "shading",
+                "c": "all of the options listed.",
+                "d": "interposition",
+                "answer": "c"
+        }, {
+                "question" : "Absolute threshold is the:",
+                "a": "point at which physical energy is converted to stimulus information via the jnd.",
+                "b": "minimum amount of physical energy needed for a person to notice a stimulus.",
+                "c": "absolute value of a difference threshold which demonstrates exponential variance.",
+                "d": "difference between the arithmetic variable of a stimulus and its geometric response.",
+                "answer": "b"
+        }, {
+                "question" : "The process of changing physical energy into neural impulses is called:",
+                "a": "perception",
+                "b": "transformation",
+                "c": "sensation",
+                "d": "transduction",
+                "answer": "d"
+        }, {
+                "question" : "Which sense does haptic refer to?",
+                "a": "Hearing",
+                "b": "Taste",
+                "c": "Touch",
+                "d": "Sight",
+                "answer": "c"
+        }, 
+        
         // {
-        //         "question" : " ", //25
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
         //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
