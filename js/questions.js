@@ -1666,9 +1666,609 @@ let $questions = [
                 "c": "Touch",
                 "d": "Sight",
                 "answer": "c"
+        },
+
+        // wiley questions
+        // Ch1
+        {
+                "question" : "Positive psychology was founded due to concerns that ",
+                "a": "behaviourists were overly focused on controlling behaviour. ",
+                "b": "humanistic psychologists were using animals to study human behaviour. ",
+                "c": "psychology was overly focused on psychopathology, and psychological damage. ",
+                "d": "psychology was overly focused on unconscious urges. ",
+                "answer": "c"
+        }, {
+                "question" : "Olivia is working on budgeting her time between studying for school, working at a part-time job, and training for a triathlon. Which strategy could Olivia use to help manage her time? ",
+                "a": "take daily long naps to rejuvenate herself ",
+                "b": "create a daily schedule and reward herself for sticking to it ",
+                "c": "improve her multitasking skills by training while at work and school ",
+                "d": "allow herself ample time to socialise at least twice per day ",
+                "answer": "b"
+        }, {
+                "question" : "The foundation for a theory should be ",
+                "a": "personal hunches.",
+                "b": "descriptive statistics.",
+                "c": "evidence-based studies. ",
+                "d": "preconceived reviews. ",
+                "answer": "c"
+        }, {
+                "question" : "After stating the hypothesis, the next step in the scientific method needs to set the ",
+                "a": "operational definition. ",
+                "b": "survey method. ",
+                "c": "research statistics. ",
+                "d": "sampling procedures. ",
+                "answer": "a"
+        }, {
+                "question" : "Biopsychology or behavioural neuroscience is the study of: ",
+                "a": "language and memory. ",
+                "b": "memory, emotion, and stress. ",
+                "c": "human thoughts, feelings and fears. ",
+                "d": "electrical and chemical processes underlying mental events. ",
+                "answer": "d"
+        }, {
+                "question" : "Paul Broca observed that individuals with lesions in the front section of the left hemisphere: ",
+                "a": "could both speak fluently and comprehend well. ",
+                "b": "were often unable to speak fluently but could comprehend language. ",
+                "c": "were unable to comprehend language or speak comprehensibly. ",
+                "d": "were able to speak fluently but could not comprehend language. ",
+                "answer": "b"
+        }, {
+                "question" : "Cross-cultural psychologists: ",
+                "a": "attempt to distinguish universal psychological processes from those that are specific to particular cultures. ",
+                "b": "assert that all psychological processes involve an equal balance between the individual and his or her culture. ",
+                "c": "argue that the only important findings concerning psychological processes are those that hold true across cultures. ",
+                "d": "believe that all psychological processes are culturally specific; nothing is universal. ",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following clarified the link between brain and behaviour? ",
+                "a": "Changes in behaviour after closed head injury ",
+                "b": "Increases in drug use ",
+                "c": "Developmental studies of animals ",
+                "d": "Severe emotional trauma results in anorexia nervosa ",
+                "answer": "a"
+        }, {
+                "question" : "The issue of whether our behaviour is controlled by outside forces or free choice: ",
+                "a": "remains a controversy in psychology.",
+                "b": "has long been settled in favour of free will.",
+                "c": "has long been settled in favour of determinism. ",
+                "d": "is of no importance to psychology. ",
+                "answer": "a"
+        }, {
+                "question" : "'Do we freely choose our actions, or is our behaviour caused by things outside our control?’ This philosophical view is known as: ",
+                "a": "nature versus nurture. ",
+                "b": "individualism versus relationality. ",
+                "c": "rationalism versus empiricism. ",
+                "d": "free will versus determinism. ",
+                "answer": "d"
+        }, {
+                "question" : "Whereas Wundt and Titchener were associated with the structuralist school of psychology, William James was a: ",
+                "a": "functionalist. ",
+                "b": "sociobiologist. ",
+                "c": "psychoanalyst. ",
+                "d": "behaviourist. ",
+                "answer": "a"
+        }, {
+                "question" : "According to Kuhn, the social sciences differ from the older natural sciences in that: ",
+                "a": "there are a limited number of perspectives in the social sciences, whereas the number in the natural sciences seems unlimited. ",
+                "b": "although they have an accepted paradigm upon which most members of the scientific community agree, social scientists tend to align themselves with one of several different perspectives. ",
+                "c": "the social sciences lack an accepted paradigm upon which most members of the scientific community agree. ",
+                "d": "the social sciences borrow perspectives from the natural sciences, whereas the natural sciences never borrow from the social sciences. ",
+                "answer": "c"
+        }, {
+                "question" : "The relationship between conscious awareness and unconscious mental forces can be considered analogous to the visible tip of an iceberg and the vast, submerged hulk that lies out of sight beneath the water. This notion best fits with which of the following perspectives? ",
+                "a": "Evolutionary ",
+                "b": "Psychodynamic",
+                "c": "Cognitive",
+                "d": "Behaviourist",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following research methods is most associated with the psychodynamic perspective? ",
+                "a": "Observation",
+                "b": "Experimentation",
+                "c": "Introspection",
+                "d": "Case study",
+                "answer": "d"
+        }, {
+                "question" : "The primary method of the behaviourist approach is: ",
+                "a": "introspection",
+                "b": "experimental",
+                "c": "determinism",
+                "d": "deduction",
+                "answer": "b"
+        }, {
+                "question" : "	Psychologists interested in such phenomena as prejudice, aggression, and groups would most likely be classified as __________ psychologists.",
+                "a": "clinical",
+                "b": "forensic",
+                "c": "social",
+                "d": "health",
+                "answer": "c"
+        }, {
+                "question" : "Dr Tehan conducts basic research on the influences of ageing on memory. It is most likely that Dr Tehan is a _____________ psychologist.",
+                "a": "health",
+                "b": "counselling",
+                "c": "cognitive",
+                "d": "clinical",
+                "answer": "c"
+        }, {
+                "question" : "Doctor Seeto is interested in such phenomena as prejudice, aggression, and groups and would most likely be classified as a __________ psychologists. ",
+                "a": "social",
+                "b": "forensic",
+                "c": "clinical",
+                "d": "health",
+                "answer": "a"
+        }, {
+                "question" : "Research from Cornell University shows that stomach cancer is 15 times higher in China than it is in the US. What was the goal of this finding? ",
+                "a": "To describe ",
+                "b": "To explain",
+                "c": "To change",
+                "d": "To predict ",
+                "answer": "a"
+        }, {
+                "question" : "The philosophical approach that considers how mental processes function to adapt to changing environments is called",
+                "a": "structuralism",
+                "b": "functionalism",
+                "c": "introspection",
+                "d": "voluntarism",
+                "answer": "b"
         }, 
         
+        // Ch 2
         // {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
+        //         "question" : " ",
+        //         "a": " ",
+        //         "b": " ",
+        //         "c": " ",
+        //         "d": " ",
+        //         "answer": " "
+        // }, {
         //         "question" : " ",
         //         "a": " ",
         //         "b": " ",

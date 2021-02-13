@@ -130,7 +130,7 @@ function endQuiz() {
     $submit.attr("disabled", "disabled");
     $radio.attr("disabled", "disabled");
 
-    var score = ((($scoring.correct - $scoring.incorrect) / $total_questions) * 100).toFixed(2);
+    var score = (($scoring.correct / $total_questions) * 100).toFixed(2);
     $('#answers').append("<hr /><p class='centered'>Quiz finished! Please refresh to play again!</p>");
     $('#answers').append(`<p class='centered'>Final score: ${score}%</p>`);
 }
