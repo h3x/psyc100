@@ -2287,216 +2287,518 @@ let $questions = [
         }, 
         
         // Ch 5
+        {
+                "question": "Meditative techniques include practices that train attention and awareness to bring mental processes under _______ control.",
+                "a": "voluntary",
+                "b": "altered",
+                "c": "involuntary",
+                "d": "automatic",
+                "answer": "a"
+        }, {
+                "question": "Research suggests that people prone to abuse drugs may suffer from a(n)",
+                "a": "reward learning deficiency. ",
+                "b": "reward-deficiency syndrome. ",
+                "c": "drug-deficiency syndrome.",
+                "d": "addictive personality syndrome.",
+                "answer": "b"
+        }, {
+                "question": "The functions of consciousness are to:",
+                "a": "recognise rewards and avoid punishments. ",
+                "b": "monitor the self and regulate thought and behaviour. ",
+                "c": "monitor hopes and dreams.",
+                "d": "maintain attention and alertness.",
+                "answer": "b"
+        }, {
+                "question": "The process of focusing conscious awareness, and thus providing focused sensitivity to a limited range of experience requiring more extensive information processing, is referred to as:",
+                "a": "attention",
+                "b": "learning",
+                "c": "assimilation",
+                "d": "concentration",
+                "answer": "a"
+        }, {
+                "question": "Attention that is split between two complex tasks is referred to as:",
+                "a": "divided attention.",
+                "b": "focal breaking",
+                "c": "selective attention.",
+                "d": "task division.",
+                "answer": "a"
+        }, {
+                "question": "Which of the following are able to respond to a stimulus at different levels of consciousness?",
+                "a": "Only individuals who have ingested psychoactive substances",
+                "b": "Only amnesics ",
+                "c": "All people",
+                "d": "Only individuals who have been hypnotised ",
+                "answer": "c"
+        }, {
+                "question": "Sigmund Freud defines the three levels of consciousness as:",
+                "a": "manifest, latent, and realised.",
+                "b": "initial, middle, and final.",
+                "c": "conscious, preconscious and unconscious.",
+                "d": "explicit, implicit, and interpreted. ",
+                "answer": "c"
+        }, {
+                "question": "Skills or procedures that operate without awareness and are not accessible to consciousness under any circumstances are:",
+                "a": "uberconscious cognitive processes. ",
+                "b": "preconscious cognitive processes. ",
+                "c": "unconscious cognitive processes. ",
+                "d": "subconscious cognitive processes. ",
+                "answer": "c"
+        }, {
+                "question": "According to some cognitive theorists, unconscious cognitive processes are speedy and accurate because:",
+                "a": "they are based on considerable learning. ",
+                "b": "of the limited cognitive load they carry. ",
+                "c": "many of them are innate. ",
+                "d": "none of the options listed.  ",
+                "answer": "a"
+        }, {
+                "question": "You are introduced to a patient with severe anterograde amnesia (no new permanent memories are formed) and during the visit you inadvertently spill hot coffee on her lap. On your next, visit she does not recognise you, but moves away from you when you sit next to her while holding a hot cup of coffee. That is an example of:",
+                "a": "explicit memory. ",
+                "b": "implicit memory. ",
+                "c": "immediate memory. ",
+                "d": "procedural memory. ",
+                "answer": "b"
+        }, {
+                "question": "Human circadian rhythms are largely controlled by:",
+                "a": "the hypothalamus. ",
+                "b": "heredity. ",
+                "c": "the amount of sleep a person gets. ",
+                "d": "a neural pathway from the retina to the visual cortex. ",
+                "answer": "a"
+        }, {
+                "question": "Sleeping pills should be taken with caution because:",
+                "a": "they impede cognitive functions, sometimes causing patients to overdose. ",
+                "b": "their potency levels are not federally regulated for uniformity. ",
+                "c": "they may impede the patient’s recovery from sleep disorders by interfering with natural sleep functions. ",
+                "d": "they sometimes mask symptoms of serious, even potentially deadly health disorders. ",
+                "answer": "c"
+        }, {
+                "question": "In a sleep study, a researcher is observing her patient. Monitoring equipment indicates that the subject’s eyes are beginning to dart back and forth as if s/he were watching a play. The doctor notes that the patient has entered:",
+                "a": "REM sleep. ",
+                "b": "stage 4 sleep. ",
+                "c": "stage 1 sleep. ",
+                "d": "NREM sleep. ",
+                "answer": "a"
+        }, {
+                "question": "During REM sleep the brain is:",
+                "a": "less active than in delta sleep. ",
+                "b": "dormant. ",
+                "c": "more active than stage 4 sleep, but less active than stage 3 sleep. ",
+                "d": "as active as during waking periods. ",
+                "answer": "d"
+        },
+        {
+                "question" : "According to Freud, dreams were quickly forgotten:",
+                "a": "because they are psychologically unimportant. ",
+                "b": "because they aren’t very vivid. ",
+                "c": "when the memory traces fade rapidly. ",
+                "d": "to avoid the anxiety they create. ",
+                "answer": "d"
+        }, {
+                "question" : "Cross-culturally, the most widely used psychoactive substance is:",
+                "a": "LSD",
+                "b": "alcohol",
+                "c": "cocaine",
+                "d": "marijuana",
+                "answer": "a"
+        }, {
+                "question" : "Alcohol abuse is involved in many violent crimes, including assault, spouse abuse and murder, but precisely how alcohol contributes to ___________ is not entirely clear.",
+                "a": "depression ",
+                "b": "mania ",
+                "c": "aggression ",
+                "d": "stress ",
+                "answer": "c"
+        }, {
+                "question" : "Which of the following is not an example of a stimulant?",
+                "a": "Amphetamines",
+                "b": "Cocaine",
+                "c": "Nicotine",
+                "d": "Alcohol",
+                "answer": "d"
+        }, {
+                "question" : "During a _______ high, judgement is moderately impaired, problem solving becomes less focused and efficient, and attention is more difficult to direct; some people also report paranoia or panic symptoms.",
+                "a": "PCP",
+                "b": "cocaine",
+                "c": "marijuana",
+                "d": "Xanax",
+                "answer": "c"
+        }, {
+                "question" : "In _______, the soul is believed to be entered by another person or supernatural being.",
+                "a": "possession trances",
+                "b": "meditation",
+                "c": "the ‘hidden observer’ phenomenon ",
+                "d": "an LSD high ",
+                "answer": "a"
+        }, 
+        
+        // Ch 6
+        {
+                "question" : "The loud noise of the lawn mower may initially be very noticeable but becomes barely obvious after a short time. This is an example of:",
+                "a": "habituation",
+                "b": "acquisition",
+                "c": "reflex",
+                "d": "stimulus",
+                "answer": "a"
+        }, {
+                "question" : "An environmental consequence which, when presented, is followed by an increase in responding, is called a:",
+                "a": "success. ",
+                "b": "positive reinforcement. ",
+                "c": "‘sure’ thing. ",
+                "d": "stroke of good fortune. ",
+                "answer": "b"
+        }, {
+                "question" : "In avoidance learning, the participant learns to:",
+                "a": "jump a hurdle when shocked. ",
+                "b": "turn a wheel to prevent shock. ",
+                "c": "run away from shock. ",
+                "d": "press a bar to turn off shock. ",
+                "answer": "b"
+        }, {
+                "question" : "Extinction of operant behaviour requires:",
+                "a": "a combination of punishment and reasoning. ",
+                "b": "punishment. ",
+                "c": "removal of the reinforcer. ",
+                "d": "a combination of punishment and removal of reinforcement. ",
+                "answer": "c"
+        }, {
+                "question" : "You are attracted to the person standing behind you at the supermarket checkout. You are about to strike up a conversation, but change your mind when you notice the person is wearing a wedding band. The wedding band is acting as a:",
+                "a": "negative reinforcer. ",
+                "b": "discriminative stimulus. ",
+                "c": "punishment. ",
+                "d": "conditioning stimulus. ",
+                "answer": "b"
+        }, {
+                "question" : "The cost–benefit analysis involved in operant behaviour is known as:",
+                "a": "cost-analysis behaviour. ",
+                "b": "behavioural economics. ",
+                "c": "behavioural schedule reinforcement. ",
+                "d": "cost-schedule behaviour. ",
+                "answer": "b"
+        }, {
+                "question" : "Jonathon knows how to roast meat, cook vegetables, bake bread and prepare salads. He has never prepared and served a dinner for ten people and wants to learn how to do it. What is going to be the most important part of his learning?",
+                "a": "Chaining",
+                "b": "Evaluation",
+                "c": "Discrimination",
+                "d": "Reinforcement",
+                "answer": "a"
+        }, {
+                "question" : "According to Tolman, learning that has occurred but is not currently manifested in behaviour, is known as:",
+                "a": "conditioned learning. ",
+                "b": "latent learning. ",
+                "c": "chaining. ",
+                "d": "shaping. ",
+                "answer": "b"
+        }, {
+                "question" : "Insight is:",
+                "a": "a replacement for conditioning. ",
+                "b": "the sudden understanding of the relationship between a problem and a solution. ",
+                "c": "what one uses instead of intuition. ",
+                "d": "only possible in humans. ",
+                "answer": "b"
+        }, {
+                "question" : "Jessica is a real go-getter who firmly believes that if she wants to do something badly enough, she can achieve it through perseverance. Jessica is someone who has:",
+                "a": "specific reinforcements. ",
+                "b": "an external locus of control. ",
+                "c": "an internal locus of control. ",
+                "d": "generalised expectancies. ",
+                "answer": "c"
+        }, {
+                "question" : "Learned helplessness is a good example of the power of:",
+                "a": "prepared learning. ",
+                "b": "expectancies. ",
+                "c": "classical conditioning. ",
+                "d": "negative reinforcement. ",
+                "answer": "b"
+        }, {
+                "question" : "Observational learning, in which a human learns to reproduce behaviour exhibited by another, is called:",
+                "a": "operationalism. ",
+                "b": "modelling. ",
+                "c": "motivational learning. ",
+                "d": "tutelage. ",
+                "answer": "b"
+        }, {
+                "question" : "In vicarious learning:",
+                "a": "the pairing of a USC and CS produce a CR. ",
+                "b": "one person teaches another by example. ",
+                "c": "a person learns the consequences of an action by watching someone else's results. ",
+                "d": "learning is generalised beyond the original training context. ",
+                "answer": "c"
+        }, {
+                "question" : "You visit a new friend for the first time and as you enter his apartment, his cat hisses and jumps on you from above the doorway. This happens for several nights. Then one evening you come in for a visit and at the sound of the cat's hiss, you jump briskly to one side and the cat lands on the floor next to you. The cat's hiss is the:",
+                "a": "conditioned response. ",
+                "b": "unconditioned stimulus. ",
+                "c": "unconditioned response. ",
+                "d": "conditioned stimulus. ",
+                "answer": "d"
+        }, {
+                "question" : "Conditioned taste aversions are:",
+                "a": "easily acquired. ",
+                "b": "can be acquired in some cases while unconscious. ",
+                "c": "have been demonstrated in animals without a cortex. ",
+                "d": "all of the options listed. ",
+                "answer": "d"
+        }, {
+                "question" : "During a war, a person lived near sirens that sounded when an air raid was about to occur. Whenever she heard an ambulance siren after the war, she would begin to sweat and become anxious. Her reaction to the ambulance siren is an example of:",
+                "a": "a conditioned emotional response. ",
+                "b": "negative reinforcement. ",
+                "c": "paradoxical conditioning. ",
+                "d": "a conditioned latent response. ",
+                "answer": "a"
+        }, {
+                "question" : "The purpose of John Watson's famous study with little Albert (in which he conditioned Albert to associate furry things with a loud noise) was to demonstrate that:",
+                "a": "latent learning could occur in infants and children. ",
+                "b": "a phobia could be induced but also extinguished. ",
+                "c": "operant and classical conditioning could achieve similar results. ",
+                "d": "a fear response could be classically conditioned. ",
+                "answer": "d"
+        }, {
+                "question" : "Organisms learn to discriminate between two stimuli when:",
+                "a": "the stimuli are not consistently associated with the same UCS. ",
+                "b": "one stimulus elicits a spontaneous recovery while another does not. ",
+                "c": "the acquisition stage of conditioning is past and a new CS is presented. ",
+                "d": "each stimulus elicits a slightly different conditioned response. ",
+                "answer": "a"
+        }, {
+                "question" : "Prepared learning refers to:",
+                "a": "having the participant show up with the proper attitude. ",
+                "b": "the observation that the nervous system is wired for certain associations. ",
+                "c": "response generalisation. ",
+                "d": "none of the options listed. ",
+                "answer": "b"
+        }, {
+                "question" : "Evidence from the marine snail Aplysia would indicate:",
+                "a": "that learning is rapid in this species. ",
+                "b": "learning involves changes at the synapses. ",
+                "c": "learning can occur without a brain. ",
+                "d": "that true learning is not possible below the vertebrate level. ",
+                "answer": "b"
+        }, 
+        // Ch 7
+        {
+                "question" : "Mothers often forget the level of pain they felt during labour and childbirth. Which theory of forgetting BEST explains this phenomenon?",
+                "a": "motivated forgetting",
+                "b": "retrieval failure",
+                "c": "decay",
+                "d": "interference",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following is not an example of a sensory representation?",
+                "a": "The city skyline ",
+                "b": "The sound of a dog barking ",
+                "c": "The word ‘liberty’ ",
+                "d": "The smell of mown grass ",
+                "answer": "c"
+        }, {
+                "question" : "Verbal representations are most often:",
+                "a": "recalled as visual representations ",
+                "b": "of abstract concepts. ",
+                "c": "expressed visually. ",
+                "d": "used by writers. ",
+                "answer": "b"
+        }, {
+                "question" : "The term that describes the visual sensory register is:",
+                "a": "echoic storage. ",
+                "b": "hepatic storage. ",
+                "c": "motoric storage. ",
+                "d": "iconic storage. ",
+                "answer": "d"
+        }, {
+                "question" : "As new information comes into short-term memory, old information is:",
+                "a": "returned to sensory memory. ",
+                "b": "chunked with the new memory. ",
+                "c": "‘bumped’ out of short-term memory and lost. ",
+                "d": "transferred to long-term memory. ",
+                "answer": "c"
+        }, {
+                "question" : "Research with the fMRI (functional magnetic resonance imaging) has indicated that working memory:",
+                "a": "actually consists of several independent components. ",
+                "b": "is a unitary function of the frontal lobes. ",
+                "c": "is only operative during problem solving. ",
+                "d": "participates in the recognition of scrambled nonsense faces. ",
+                "answer": "a"
+        }, {
+                "question" : "Baddeley and Hitch had participants perform two tasks simultaneously: one involved recalling a series of digits and the other involved some kind of thinking, such as reasoning or comprehending the meaning of sentences. Their results suggested that:",
+                "a": "while storage capacity in STM is unlimited, processing capacity is limited to a small number of tasks. ",
+                "b": "short-term memory is too limited to involve working on two tasks simultaneously. ",
+                "c": "storage capacity and processing capacity are two separate aspects of working memory. ",
+                "d": "storage capacity and processing capacity are ultimately the same thing; they are highly interdependent. ",
+                "answer": "c"
+        }, {
+                "question" : "In a memory experiment involving recall of a series of digits, one participant reported treating the digits like telephone numbers, breaking the series down into a 2-digit ‘area code’, an 8-digit ‘telephone number’, and a 4-digit ‘extension’. Using this procedure, the participant was able to hold 13 digits in working memory. This procedure is an example of:",
+                "a": "chunking. ",
+                "b": "the method of loci. ",
+                "c": "spacing of rehearsal. ",
+                "d": "semantic processing. ",
+                "answer": "a"
+        }, {
+                "question" : "Procedural memory refers to:",
+                "a": "verbal storage representations. ",
+                "b": "chunking of information in working memory. ",
+                "c": "memory for facts and events. ",
+                "d": "how-to knowledge. ",
+                "answer": "d"
+        }, {
+                "question" : "Everyday memory is:",
+                "a": "the daily recall of the same information. ",
+                "b": "knowledge about how to do things. ",
+                "c": "memory in the naturalistic setting. ",
+                "d": "your memory of similar events in the past. ",
+                "answer": "c"
+        }, {
+                "question" : "Which of the following constitutes prospective memory as opposed to retrospective memory?",
+                "a": "Stephen remembers the day he became the school’s new record-holder for the long-distance course ",
+                "b": "Alicia remembers to stop at the shop on her way home from work to pick up bread and milk ",
+                "c": "Caroline remembers most of the names on the list of the party guests she jotted down the previous evening ",
+                "d": "Samuel recalls a series of numbers after a 20-minute respite in a laboratory setting ",
+                "answer": "b"
+        }, {
+                "question" : "Declarative memory can involve either _______ or _______ memory.",
+                "a": "semantic, episodic ",
+                "b": "semantic, structural ",
+                "c": "explicit, implicit ",
+                "d": "semantic, phonemic ",
+                "answer": "a"
+        }, {
+                "question" : "Different levels of processing:",
+                "a": "activate the same neural circuits. ",
+                "b": "activate different neural circuits. ",
+                "c": "are involved in rehearsal. ",
+                "d": "are different for recall and recognition. ",
+                "answer": "b"
+        }, {
+                "question" : "The encoding specificity principle implies that:",
+                "a": "highly specific material is recalled more easily than general material. ",
+                "b": "coding and retrieval are unrelated. ",
+                "c": "the ease of encoding is related to the ease of retrieval. ",
+                "d": "retrieval is easier if the encoding and retrieval environments are similar. ",
+                "answer": "d"
+        }, {
+                "question" : "David is picturing his dry cleaning heaped on top of his TV, a loaf of bread hanging where the remote control usually hangs, and bills sticking out of the VCR. What mnemonic is he using to remember?",
+                "a": "Peg method ",
+                "b": "Method of loci ",
+                "c": "Semantic scenario ",
+                "d": "SQ3R ",
+                "answer": "b"
+        }, {
+                "question" : "Schemas can affect the way people remember by:",
+                "a": "neither of the options listed. ",
+                "b": "influencing what is encoded. ",
+                "c": "both of the options listed. ",
+                "d": "shaping what is reconstructed from stored memories. ",
+                "answer": "c"
+        }, {
+                "question" : "When attempting to answer the question, ‘How long is long-term memory?’ researchers draw a distinction between availability — whether the information is still ‘in there’ — and accessibility — the ease with which it can be retrieved. For the most part, accessibility:",
+                "a": "depends on STM. ",
+                "b": "determines priming effects. ",
+                "c": "is logarithmically related to availability. ",
+                "d": "reflects level of activation. ",
+                "answer": "d"
+        }, {
+                "question" : "Decay theory says we forget:",
+                "a": "because our association network becomes too complex. ",
+                "b": "as our brains age. ",
+                "c": "due to the gradual loss of physiological changes due to learning. ",
+                "d": "as we learn new material of a similar nature. ",
+                "answer": "c"
+        }, {
+                "question" : "You are a participant in a psychology experiment in which you are told to learn a list of words that will be presented to you by the experimenter. Half way through the list, you are told to forget the words you have seen and just remember the last words given to you. Later, you are asked to recall both sets of words. You will:",
+                "a": "recall more words from the first half and recognise more as well. ",
+                "b": "remember more from the last half but recognise words equally from both lists. ",
+                "c": "not remember or recall any words from the first half of the list. ",
+                "d": "not remember words from the first half, but will recognise many of them. ",
+                "answer": "b"
+        }, {
+                "question" : "Some of the best evidence for the existence of repressed memories comes from a study:",
+                "a": "of the memories of recent victims of abuse. ",
+                "b": "which showed that 17 years after their documented abuse, 38% of victims did not recall the event. ",
+                "c": "of amnesia after other traumatic events. ",
+                "d": "indicating abusers often forget having committed abuse . ",
+                "answer": "b"
+        }, 
+        
+        // Ch 8
         // {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // }, {
-        //         "question": " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question": " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question": " ",
+        //         "question" : " ",
         //         "a": " ",
         //         "b": " ",
         //         "c": " ",
         //         "d": " ",
         //         "answer": " "
         // },
-        //{
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, 
 ];
