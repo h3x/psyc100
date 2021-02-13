@@ -2013,7 +2013,7 @@ let $questions = [
                 "a": "myelinated axons.",
                 "b": "myelinated cell bodies and dendrites.",
                 "c": "cell bodies, dendrites and unmyelinated axons.",
-                "d": "synapses. ",
+                "d": "synapses.",
                 "answer": "c"
         }, {
                 "question": "Connections between neurons occur at what are called:",
@@ -2082,7 +2082,7 @@ let $questions = [
                 "question": "The cerebrum is the part of the brain most involved in:",
                 "a": "maintaining homeostasis.",
                 "b": "hunger and thirst.",
-                "c": "complex thought. ",
+                "c": "complex thought.",
                 "d": "sensation.",
                 "answer": "c"
         }, {
@@ -2149,112 +2149,112 @@ let $questions = [
                 "a": "the rods temporarily stop functioning",
                 "b": "the cones temporarily stop functioning",
                 "c": "the pupil constricts and dilates.",
-                "d": "we blink regularly. ",
+                "d": "we blink regularly.",
                 "answer": "c"
         }, {
                 "question": "Sensation refers to the process by which:",
                 "a": "information is gathered by the senses",
-                "b": "information is organised and interpreted by the brain. ",
+                "b": "information is organised and interpreted by the brain.",
                 "c": "the sense organs feel emotion.",
-                "d": "stimulus intensity is compared by the brain.  ",
+                "d": "stimulus intensity is compared by the brain.",
                 "answer": "a"
         }, {
                 "question": "The doctrine of specific nerve energies states that:",
-                "a": "specific nerves carry more than one sense impression. ",
-                "b": "perceptions are a product of the interaction of nerve pathways. ",
+                "a": "specific nerves carry more than one sense impression.",
+                "b": "perceptions are a product of the interaction of nerve pathways.",
                 "c": "sensations result from following specific nerve pathways.",
-                "d": "nerves are general, perceptions are specific. ",
+                "d": "nerves are general, perceptions are specific.",
                 "answer": "c"
         }, {
                 "question": "Response bias may be introduced by:",
-                "a": "prior expectation concerning the stimulus. ",
-                "b": "motivation to detect a signal. ",
-                "c": "neither of the options listed. ",
-                "d": "both of the options listed. ",
+                "a": "prior expectation concerning the stimulus.",
+                "b": "motivation to detect a signal.",
+                "c": "neither of the options listed.",
+                "d": "both of the options listed.",
                 "answer": "d"
         }, {
                 "question": "One type of correct response that may be given by individuals participating in a signal detection experiment is a correct negative. In this event, the participant would report:",
-                "a": "no stimulus when no actual stimulus was presented. ",
+                "a": "no stimulus when no actual stimulus was presented.",
                 "b": "no stimulus when an actual stimulus was presented.",
-                "c": "a stimulus when no actual stimulus was presented. ",
-                "d": "a stimulus when an actual stimulus was presented. ",
+                "c": "a stimulus when no actual stimulus was presented.",
+                "d": "a stimulus when an actual stimulus was presented.",
                 "answer": "a"
         }, {
                 "question": "The innermost layer of the retina contains two types of photoreceptors called:",
-                "a": "bipolar and ganglion cells. ",
-                "b": "light receptors and dark receptors. ",
-                "c": "rods and cones. ",
-                "d": "photoneurons and receptive fields. ",
+                "a": "bipolar and ganglion cells.",
+                "b": "light receptors and dark receptors.",
+                "c": "rods and cones.",
+                "d": "photoneurons and receptive fields.",
                 "answer": "c"
         }, {
                 "question": "Transduction in the eye starts with:",
-                "a": "opening your eyelids. ",
-                "b": "crossing of images at the optic chiasm. ",
-                "c": "turning on a light in a dark room. ",
-                "d": "focusing images on the retina. ",
+                "a": "opening your eyelids.",
+                "b": "crossing of images at the optic chiasm.",
+                "c": "turning on a light in a dark room.",
+                "d": "focusing images on the retina.",
                 "answer": "d"
         }, {
                 "question": "The trichromatic theory of colour vision holds that:",
-                "a": "the eye contains three types of receptors each of which is maximally sensitive to wavelengths of light that produce sensations of either blue, green, or red. ",
-                "b": "all colours are derived from three antagonistic colour systems: black-white; blue-yellow, and red-green. ",
-                "c": "afterimages are visual images that persist in opposite and predictable colour schemes after a stimulus has been removed. ",
-                "d": "black-white colours contribute to brightness and saturation while the other three colour sensations of blue, green and red are responsible for hue. ",
+                "a": "the eye contains three types of receptors each of which is maximally sensitive to wavelengths of light that produce sensations of either blue, green, or red.",
+                "b": "all colours are derived from three antagonistic colour systems: black-white; blue-yellow, and red-green.",
+                "c": "afterimages are visual images that persist in opposite and predictable colour schemes after a stimulus has been removed.",
+                "d": "black-white colours contribute to brightness and saturation while the other three colour sensations of blue, green and red are responsible for hue.",
                 "answer": "a"
         }, {
                 "question": "The movement of cilia caused by the basilar and tectorial membranes is critical for ___________ in the hearing process.",
-                "a": "amplification. ",
-                "b": "the equalisation of air pressure. ",
-                "c": "transduction. ",
-                "d": "the motion of the ossicles. ",
+                "a": "amplification.",
+                "b": "the equalisation of air pressure.",
+                "c": "transduction.",
+                "d": "the motion of the ossicles.",
                 "answer": "c"
         }, {
                 "question": "Place theory says that sounds of different pitch:",
-                "a": "increase the displacement of the basilar membrane. ",
-                "b": "move different places on the basilar membrane. ",
-                "c": "activate different pathways in the auditory nerve. ",
-                "d": "are indistinguishable unless the pinna is intact. ",
+                "a": "increase the displacement of the basilar membrane.",
+                "b": "move different places on the basilar membrane.",
+                "c": "activate different pathways in the auditory nerve.",
+                "d": "are indistinguishable unless the pinna is intact.",
                 "answer": "b"
         }, {
                 "question": "People recognise voices, as well as the sounds of different musical instruments, from their characteristic:",
                 "a": "frequency.",
                 "b": "pitch",
                 "c": "amplitude.",
-                "d": "timbre. ",
+                "d": "timbre.",
                 "answer": "d"
         }, {
                 "question": "In terms of sensing pitch, place theory holds that:",
-                "a": "neurons may stagger their responses so that the combined pattern produces a signal of a particular frequency. ",
-                "b": "the location or place from which a sound originates can be identified by means of sound localisation. ",
-                "c": "different areas of the basilar membrane are maximally sensitive to different frequencies. ",
-                "d": "the more frequently a sound wave cycles, the more frequently the basilar membrane vibrates and hair cells fire. ",
+                "a": "neurons may stagger their responses so that the combined pattern produces a signal of a particular frequency.",
+                "b": "the location or place from which a sound originates can be identified by means of sound localisation.",
+                "c": "different areas of the basilar membrane are maximally sensitive to different frequencies.",
+                "d": "the more frequently a sound wave cycles, the more frequently the basilar membrane vibrates and hair cells fire.",
                 "answer": "c"
         }, {
                 "question": "Touch is a mix of:",
-                "a": "pressure, pain and stroking. ",
+                "a": "pressure, pain and stroking.",
                 "b": "pain, heat and cold.",
                 "c": "pain, pressure and temperature.",
-                "d": "heat, cold and pressure. ",
+                "d": "heat, cold and pressure.",
                 "answer": "c"
         }, {
                 "question": "The most important receptors for pain are thought to be the:",
-                "a": "free nerve endings in the skin. ",
-                "b": "Meissner's corpuscles. ",
-                "c": "Merkel's spheres. ",
-                "d": "Pacinian corpuscles. ",
+                "a": "free nerve endings in the skin.",
+                "b": "Meissner's corpuscles.",
+                "c": "Merkel's spheres.",
+                "d": "Pacinian corpuscles.",
                 "answer": "a"
         }, {
                 "question": "The two organs that transduce vestibular information are called _________ and ________, and are located __________.",
-                "a": "the tendons and the muscles, in the joints ",
-                "b": "the pinna and the tympanic membrane, in the outer ear ",
-                "c": "the semicircular canals and the vestibular sacs, in the inner ear ",
-                "d": "kinaesthesia and the vestibular sense, the medulla ",
+                "a": "the tendons and the muscles, in the joints",
+                "b": "the pinna and the tympanic membrane, in the outer ear",
+                "c": "the semicircular canals and the vestibular sacs, in the inner ear",
+                "d": "kinaesthesia and the vestibular sense, the medulla",
                 "answer": "c"
         }, {
                 "question": "A percept is:",
-                "a": "a meaningful perceptual unit. ",
+                "a": "a meaningful perceptual unit.",
                 "b": "an organisation paradigm.",
-                "c": "the basis of a perspective. ",
-                "d": "a unit of transduced information. ",
+                "c": "the basis of a perspective.",
+                "d": "a unit of transduced information.",
                 "answer": "a"
         }, {
                 "question": "Which of the following types of psychologists first systematically studied the way sensations are organised into meaningful shapes and patterns?",
@@ -2265,24 +2265,24 @@ let $questions = [
                 "answer": "c"
         }, {
                 "question": "Gestalt principles apply:",
-                "a": "in industrialised societies, but not in agrarian societies. ",
+                "a": "in industrialised societies, but not in agrarian societies.",
                 "b": "only to adults",
-                "c": "to all the senses. ",
+                "c": "to all the senses.",
                 "d": "only for visual stimuli.",
                 "answer": "c"
         }, {
                 "question": "According to current thinking, perception involves",
                 "a": "top-down processing.",
                 "b": "bottom-up processing.",
-                "c": "both of the options listed. ",
-                "d": "neither of the options listed. ",
+                "c": "both of the options listed.",
+                "d": "neither of the options listed.",
                 "answer": "c"
         }, {
                 "question": "Smell travels from the receptors to the brain via the:",
                 "a": "direct route, not through the thalamus.",
                 "b": "olfactory epithelium.",
-                "c": "direct route through the thalamus. ",
-                "d": "olfactory bulb. ",
+                "c": "direct route through the thalamus.",
+                "d": "olfactory bulb.",
                 "answer": "b"
         }, 
         
@@ -2296,15 +2296,15 @@ let $questions = [
                 "answer": "a"
         }, {
                 "question": "Research suggests that people prone to abuse drugs may suffer from a(n)",
-                "a": "reward learning deficiency. ",
-                "b": "reward-deficiency syndrome. ",
+                "a": "reward learning deficiency.",
+                "b": "reward-deficiency syndrome.",
                 "c": "drug-deficiency syndrome.",
                 "d": "addictive personality syndrome.",
                 "answer": "b"
         }, {
                 "question": "The functions of consciousness are to:",
-                "a": "recognise rewards and avoid punishments. ",
-                "b": "monitor the self and regulate thought and behaviour. ",
+                "a": "recognise rewards and avoid punishments.",
+                "b": "monitor the self and regulate thought and behaviour.",
                 "c": "monitor hopes and dreams.",
                 "d": "maintain attention and alertness.",
                 "answer": "b"
@@ -2325,73 +2325,73 @@ let $questions = [
         }, {
                 "question": "Which of the following are able to respond to a stimulus at different levels of consciousness?",
                 "a": "Only individuals who have ingested psychoactive substances",
-                "b": "Only amnesics ",
+                "b": "Only amnesics",
                 "c": "All people",
-                "d": "Only individuals who have been hypnotised ",
+                "d": "Only individuals who have been hypnotised",
                 "answer": "c"
         }, {
                 "question": "Sigmund Freud defines the three levels of consciousness as:",
                 "a": "manifest, latent, and realised.",
                 "b": "initial, middle, and final.",
                 "c": "conscious, preconscious and unconscious.",
-                "d": "explicit, implicit, and interpreted. ",
+                "d": "explicit, implicit, and interpreted.",
                 "answer": "c"
         }, {
                 "question": "Skills or procedures that operate without awareness and are not accessible to consciousness under any circumstances are:",
-                "a": "uberconscious cognitive processes. ",
-                "b": "preconscious cognitive processes. ",
-                "c": "unconscious cognitive processes. ",
-                "d": "subconscious cognitive processes. ",
+                "a": "uberconscious cognitive processes.",
+                "b": "preconscious cognitive processes.",
+                "c": "unconscious cognitive processes.",
+                "d": "subconscious cognitive processes.",
                 "answer": "c"
         }, {
                 "question": "According to some cognitive theorists, unconscious cognitive processes are speedy and accurate because:",
-                "a": "they are based on considerable learning. ",
-                "b": "of the limited cognitive load they carry. ",
-                "c": "many of them are innate. ",
-                "d": "none of the options listed.  ",
+                "a": "they are based on considerable learning.",
+                "b": "of the limited cognitive load they carry.",
+                "c": "many of them are innate.",
+                "d": "none of the options listed.",
                 "answer": "a"
         }, {
                 "question": "You are introduced to a patient with severe anterograde amnesia (no new permanent memories are formed) and during the visit you inadvertently spill hot coffee on her lap. On your next, visit she does not recognise you, but moves away from you when you sit next to her while holding a hot cup of coffee. That is an example of:",
-                "a": "explicit memory. ",
-                "b": "implicit memory. ",
-                "c": "immediate memory. ",
-                "d": "procedural memory. ",
+                "a": "explicit memory.",
+                "b": "implicit memory.",
+                "c": "immediate memory.",
+                "d": "procedural memory.",
                 "answer": "b"
         }, {
                 "question": "Human circadian rhythms are largely controlled by:",
-                "a": "the hypothalamus. ",
-                "b": "heredity. ",
-                "c": "the amount of sleep a person gets. ",
-                "d": "a neural pathway from the retina to the visual cortex. ",
+                "a": "the hypothalamus.",
+                "b": "heredity.",
+                "c": "the amount of sleep a person gets.",
+                "d": "a neural pathway from the retina to the visual cortex.",
                 "answer": "a"
         }, {
                 "question": "Sleeping pills should be taken with caution because:",
-                "a": "they impede cognitive functions, sometimes causing patients to overdose. ",
-                "b": "their potency levels are not federally regulated for uniformity. ",
-                "c": "they may impede the patient’s recovery from sleep disorders by interfering with natural sleep functions. ",
-                "d": "they sometimes mask symptoms of serious, even potentially deadly health disorders. ",
+                "a": "they impede cognitive functions, sometimes causing patients to overdose.",
+                "b": "their potency levels are not federally regulated for uniformity.",
+                "c": "they may impede the patient’s recovery from sleep disorders by interfering with natural sleep functions.",
+                "d": "they sometimes mask symptoms of serious, even potentially deadly health disorders.",
                 "answer": "c"
         }, {
                 "question": "In a sleep study, a researcher is observing her patient. Monitoring equipment indicates that the subject’s eyes are beginning to dart back and forth as if s/he were watching a play. The doctor notes that the patient has entered:",
-                "a": "REM sleep. ",
-                "b": "stage 4 sleep. ",
-                "c": "stage 1 sleep. ",
-                "d": "NREM sleep. ",
+                "a": "REM sleep.",
+                "b": "stage 4 sleep.",
+                "c": "stage 1 sleep.",
+                "d": "NREM sleep.",
                 "answer": "a"
         }, {
                 "question": "During REM sleep the brain is:",
-                "a": "less active than in delta sleep. ",
-                "b": "dormant. ",
-                "c": "more active than stage 4 sleep, but less active than stage 3 sleep. ",
-                "d": "as active as during waking periods. ",
+                "a": "less active than in delta sleep.",
+                "b": "dormant.",
+                "c": "more active than stage 4 sleep, but less active than stage 3 sleep.",
+                "d": "as active as during waking periods.",
                 "answer": "d"
         },
         {
                 "question" : "According to Freud, dreams were quickly forgotten:",
-                "a": "because they are psychologically unimportant. ",
-                "b": "because they aren’t very vivid. ",
-                "c": "when the memory traces fade rapidly. ",
-                "d": "to avoid the anxiety they create. ",
+                "a": "because they are psychologically unimportant.",
+                "b": "because they aren’t very vivid.",
+                "c": "when the memory traces fade rapidly.",
+                "d": "to avoid the anxiety they create.",
                 "answer": "d"
         }, {
                 "question" : "Cross-culturally, the most widely used psychoactive substance is:",
@@ -2402,10 +2402,10 @@ let $questions = [
                 "answer": "a"
         }, {
                 "question" : "Alcohol abuse is involved in many violent crimes, including assault, spouse abuse and murder, but precisely how alcohol contributes to ___________ is not entirely clear.",
-                "a": "depression ",
-                "b": "mania ",
-                "c": "aggression ",
-                "d": "stress ",
+                "a": "depression",
+                "b": "mania",
+                "c": "aggression",
+                "d": "stress",
                 "answer": "c"
         }, {
                 "question" : "Which of the following is not an example of a stimulant?",
@@ -2425,8 +2425,8 @@ let $questions = [
                 "question" : "In _______, the soul is believed to be entered by another person or supernatural being.",
                 "a": "possession trances",
                 "b": "meditation",
-                "c": "the ‘hidden observer’ phenomenon ",
-                "d": "an LSD high ",
+                "c": "the ‘hidden observer’ phenomenon",
+                "d": "an LSD high",
                 "answer": "a"
         }, 
         
@@ -2440,38 +2440,38 @@ let $questions = [
                 "answer": "a"
         }, {
                 "question" : "An environmental consequence which, when presented, is followed by an increase in responding, is called a:",
-                "a": "success. ",
-                "b": "positive reinforcement. ",
-                "c": "‘sure’ thing. ",
-                "d": "stroke of good fortune. ",
+                "a": "success.",
+                "b": "positive reinforcement.",
+                "c": "‘sure’ thing.",
+                "d": "stroke of good fortune.",
                 "answer": "b"
         }, {
                 "question" : "In avoidance learning, the participant learns to:",
-                "a": "jump a hurdle when shocked. ",
-                "b": "turn a wheel to prevent shock. ",
-                "c": "run away from shock. ",
-                "d": "press a bar to turn off shock. ",
+                "a": "jump a hurdle when shocked.",
+                "b": "turn a wheel to prevent shock.",
+                "c": "run away from shock.",
+                "d": "press a bar to turn off shock.",
                 "answer": "b"
         }, {
                 "question" : "Extinction of operant behaviour requires:",
-                "a": "a combination of punishment and reasoning. ",
-                "b": "punishment. ",
-                "c": "removal of the reinforcer. ",
-                "d": "a combination of punishment and removal of reinforcement. ",
+                "a": "a combination of punishment and reasoning.",
+                "b": "punishment.",
+                "c": "removal of the reinforcer.",
+                "d": "a combination of punishment and removal of reinforcement.",
                 "answer": "c"
         }, {
                 "question" : "You are attracted to the person standing behind you at the supermarket checkout. You are about to strike up a conversation, but change your mind when you notice the person is wearing a wedding band. The wedding band is acting as a:",
-                "a": "negative reinforcer. ",
-                "b": "discriminative stimulus. ",
-                "c": "punishment. ",
-                "d": "conditioning stimulus. ",
+                "a": "negative reinforcer.",
+                "b": "discriminative stimulus.",
+                "c": "punishment.",
+                "d": "conditioning stimulus.",
                 "answer": "b"
         }, {
                 "question" : "The cost–benefit analysis involved in operant behaviour is known as:",
-                "a": "cost-analysis behaviour. ",
-                "b": "behavioural economics. ",
-                "c": "behavioural schedule reinforcement. ",
-                "d": "cost-schedule behaviour. ",
+                "a": "cost-analysis behaviour.",
+                "b": "behavioural economics.",
+                "c": "behavioural schedule reinforcement.",
+                "d": "cost-schedule behaviour.",
                 "answer": "b"
         }, {
                 "question" : "Jonathon knows how to roast meat, cook vegetables, bake bread and prepare salads. He has never prepared and served a dinner for ten people and wants to learn how to do it. What is going to be the most important part of his learning?",
@@ -2482,94 +2482,94 @@ let $questions = [
                 "answer": "a"
         }, {
                 "question" : "According to Tolman, learning that has occurred but is not currently manifested in behaviour, is known as:",
-                "a": "conditioned learning. ",
-                "b": "latent learning. ",
-                "c": "chaining. ",
-                "d": "shaping. ",
+                "a": "conditioned learning.",
+                "b": "latent learning.",
+                "c": "chaining.",
+                "d": "shaping.",
                 "answer": "b"
         }, {
                 "question" : "Insight is:",
-                "a": "a replacement for conditioning. ",
-                "b": "the sudden understanding of the relationship between a problem and a solution. ",
-                "c": "what one uses instead of intuition. ",
-                "d": "only possible in humans. ",
+                "a": "a replacement for conditioning.",
+                "b": "the sudden understanding of the relationship between a problem and a solution.",
+                "c": "what one uses instead of intuition.",
+                "d": "only possible in humans.",
                 "answer": "b"
         }, {
                 "question" : "Jessica is a real go-getter who firmly believes that if she wants to do something badly enough, she can achieve it through perseverance. Jessica is someone who has:",
-                "a": "specific reinforcements. ",
-                "b": "an external locus of control. ",
-                "c": "an internal locus of control. ",
-                "d": "generalised expectancies. ",
+                "a": "specific reinforcements.",
+                "b": "an external locus of control.",
+                "c": "an internal locus of control.",
+                "d": "generalised expectancies.",
                 "answer": "c"
         }, {
                 "question" : "Learned helplessness is a good example of the power of:",
-                "a": "prepared learning. ",
-                "b": "expectancies. ",
-                "c": "classical conditioning. ",
-                "d": "negative reinforcement. ",
+                "a": "prepared learning.",
+                "b": "expectancies.",
+                "c": "classical conditioning.",
+                "d": "negative reinforcement.",
                 "answer": "b"
         }, {
                 "question" : "Observational learning, in which a human learns to reproduce behaviour exhibited by another, is called:",
-                "a": "operationalism. ",
-                "b": "modelling. ",
-                "c": "motivational learning. ",
-                "d": "tutelage. ",
+                "a": "operationalism.",
+                "b": "modelling.",
+                "c": "motivational learning.",
+                "d": "tutelage.",
                 "answer": "b"
         }, {
                 "question" : "In vicarious learning:",
-                "a": "the pairing of a USC and CS produce a CR. ",
-                "b": "one person teaches another by example. ",
-                "c": "a person learns the consequences of an action by watching someone else's results. ",
-                "d": "learning is generalised beyond the original training context. ",
+                "a": "the pairing of a USC and CS produce a CR.",
+                "b": "one person teaches another by example.",
+                "c": "a person learns the consequences of an action by watching someone else's results.",
+                "d": "learning is generalised beyond the original training context.",
                 "answer": "c"
         }, {
                 "question" : "You visit a new friend for the first time and as you enter his apartment, his cat hisses and jumps on you from above the doorway. This happens for several nights. Then one evening you come in for a visit and at the sound of the cat's hiss, you jump briskly to one side and the cat lands on the floor next to you. The cat's hiss is the:",
-                "a": "conditioned response. ",
-                "b": "unconditioned stimulus. ",
-                "c": "unconditioned response. ",
-                "d": "conditioned stimulus. ",
+                "a": "conditioned response.",
+                "b": "unconditioned stimulus.",
+                "c": "unconditioned response.",
+                "d": "conditioned stimulus.",
                 "answer": "d"
         }, {
                 "question" : "Conditioned taste aversions are:",
-                "a": "easily acquired. ",
-                "b": "can be acquired in some cases while unconscious. ",
-                "c": "have been demonstrated in animals without a cortex. ",
-                "d": "all of the options listed. ",
+                "a": "easily acquired.",
+                "b": "can be acquired in some cases while unconscious.",
+                "c": "have been demonstrated in animals without a cortex.",
+                "d": "all of the options listed.",
                 "answer": "d"
         }, {
                 "question" : "During a war, a person lived near sirens that sounded when an air raid was about to occur. Whenever she heard an ambulance siren after the war, she would begin to sweat and become anxious. Her reaction to the ambulance siren is an example of:",
-                "a": "a conditioned emotional response. ",
-                "b": "negative reinforcement. ",
-                "c": "paradoxical conditioning. ",
-                "d": "a conditioned latent response. ",
+                "a": "a conditioned emotional response.",
+                "b": "negative reinforcement.",
+                "c": "paradoxical conditioning.",
+                "d": "a conditioned latent response.",
                 "answer": "a"
         }, {
                 "question" : "The purpose of John Watson's famous study with little Albert (in which he conditioned Albert to associate furry things with a loud noise) was to demonstrate that:",
-                "a": "latent learning could occur in infants and children. ",
-                "b": "a phobia could be induced but also extinguished. ",
-                "c": "operant and classical conditioning could achieve similar results. ",
-                "d": "a fear response could be classically conditioned. ",
+                "a": "latent learning could occur in infants and children.",
+                "b": "a phobia could be induced but also extinguished.",
+                "c": "operant and classical conditioning could achieve similar results.",
+                "d": "a fear response could be classically conditioned.",
                 "answer": "d"
         }, {
                 "question" : "Organisms learn to discriminate between two stimuli when:",
-                "a": "the stimuli are not consistently associated with the same UCS. ",
-                "b": "one stimulus elicits a spontaneous recovery while another does not. ",
-                "c": "the acquisition stage of conditioning is past and a new CS is presented. ",
-                "d": "each stimulus elicits a slightly different conditioned response. ",
+                "a": "the stimuli are not consistently associated with the same UCS.",
+                "b": "one stimulus elicits a spontaneous recovery while another does not.",
+                "c": "the acquisition stage of conditioning is past and a new CS is presented.",
+                "d": "each stimulus elicits a slightly different conditioned response.",
                 "answer": "a"
         }, {
                 "question" : "Prepared learning refers to:",
-                "a": "having the participant show up with the proper attitude. ",
-                "b": "the observation that the nervous system is wired for certain associations. ",
-                "c": "response generalisation. ",
-                "d": "none of the options listed. ",
+                "a": "having the participant show up with the proper attitude.",
+                "b": "the observation that the nervous system is wired for certain associations.",
+                "c": "response generalisation.",
+                "d": "none of the options listed.",
                 "answer": "b"
         }, {
                 "question" : "Evidence from the marine snail Aplysia would indicate:",
-                "a": "that learning is rapid in this species. ",
-                "b": "learning involves changes at the synapses. ",
-                "c": "learning can occur without a brain. ",
-                "d": "that true learning is not possible below the vertebrate level. ",
+                "a": "that learning is rapid in this species.",
+                "b": "learning involves changes at the synapses.",
+                "c": "learning can occur without a brain.",
+                "d": "that true learning is not possible below the vertebrate level.",
                 "answer": "b"
         }, 
         // Ch 7
@@ -2582,223 +2582,558 @@ let $questions = [
                 "answer": "a"
         }, {
                 "question" : "Which of the following is not an example of a sensory representation?",
-                "a": "The city skyline ",
-                "b": "The sound of a dog barking ",
-                "c": "The word ‘liberty’ ",
-                "d": "The smell of mown grass ",
+                "a": "The city skyline",
+                "b": "The sound of a dog barking",
+                "c": "The word ‘liberty’",
+                "d": "The smell of mown grass",
                 "answer": "c"
         }, {
                 "question" : "Verbal representations are most often:",
-                "a": "recalled as visual representations ",
-                "b": "of abstract concepts. ",
-                "c": "expressed visually. ",
-                "d": "used by writers. ",
+                "a": "recalled as visual representations",
+                "b": "of abstract concepts.",
+                "c": "expressed visually.",
+                "d": "used by writers.",
                 "answer": "b"
         }, {
                 "question" : "The term that describes the visual sensory register is:",
-                "a": "echoic storage. ",
-                "b": "hepatic storage. ",
-                "c": "motoric storage. ",
-                "d": "iconic storage. ",
+                "a": "echoic storage.",
+                "b": "hepatic storage.",
+                "c": "motoric storage.",
+                "d": "iconic storage.",
                 "answer": "d"
         }, {
                 "question" : "As new information comes into short-term memory, old information is:",
-                "a": "returned to sensory memory. ",
-                "b": "chunked with the new memory. ",
-                "c": "‘bumped’ out of short-term memory and lost. ",
-                "d": "transferred to long-term memory. ",
+                "a": "returned to sensory memory.",
+                "b": "chunked with the new memory.",
+                "c": "‘bumped’ out of short-term memory and lost.",
+                "d": "transferred to long-term memory.",
                 "answer": "c"
         }, {
                 "question" : "Research with the fMRI (functional magnetic resonance imaging) has indicated that working memory:",
-                "a": "actually consists of several independent components. ",
-                "b": "is a unitary function of the frontal lobes. ",
-                "c": "is only operative during problem solving. ",
-                "d": "participates in the recognition of scrambled nonsense faces. ",
+                "a": "actually consists of several independent components.",
+                "b": "is a unitary function of the frontal lobes.",
+                "c": "is only operative during problem solving.",
+                "d": "participates in the recognition of scrambled nonsense faces.",
                 "answer": "a"
         }, {
                 "question" : "Baddeley and Hitch had participants perform two tasks simultaneously: one involved recalling a series of digits and the other involved some kind of thinking, such as reasoning or comprehending the meaning of sentences. Their results suggested that:",
-                "a": "while storage capacity in STM is unlimited, processing capacity is limited to a small number of tasks. ",
-                "b": "short-term memory is too limited to involve working on two tasks simultaneously. ",
-                "c": "storage capacity and processing capacity are two separate aspects of working memory. ",
-                "d": "storage capacity and processing capacity are ultimately the same thing; they are highly interdependent. ",
+                "a": "while storage capacity in STM is unlimited, processing capacity is limited to a small number of tasks.",
+                "b": "short-term memory is too limited to involve working on two tasks simultaneously.",
+                "c": "storage capacity and processing capacity are two separate aspects of working memory.",
+                "d": "storage capacity and processing capacity are ultimately the same thing; they are highly interdependent.",
                 "answer": "c"
         }, {
                 "question" : "In a memory experiment involving recall of a series of digits, one participant reported treating the digits like telephone numbers, breaking the series down into a 2-digit ‘area code’, an 8-digit ‘telephone number’, and a 4-digit ‘extension’. Using this procedure, the participant was able to hold 13 digits in working memory. This procedure is an example of:",
-                "a": "chunking. ",
-                "b": "the method of loci. ",
-                "c": "spacing of rehearsal. ",
-                "d": "semantic processing. ",
+                "a": "chunking.",
+                "b": "the method of loci.",
+                "c": "spacing of rehearsal.",
+                "d": "semantic processing.",
                 "answer": "a"
         }, {
                 "question" : "Procedural memory refers to:",
-                "a": "verbal storage representations. ",
-                "b": "chunking of information in working memory. ",
-                "c": "memory for facts and events. ",
-                "d": "how-to knowledge. ",
+                "a": "verbal storage representations.",
+                "b": "chunking of information in working memory.",
+                "c": "memory for facts and events.",
+                "d": "how-to knowledge.",
                 "answer": "d"
         }, {
                 "question" : "Everyday memory is:",
-                "a": "the daily recall of the same information. ",
-                "b": "knowledge about how to do things. ",
-                "c": "memory in the naturalistic setting. ",
-                "d": "your memory of similar events in the past. ",
+                "a": "the daily recall of the same information.",
+                "b": "knowledge about how to do things.",
+                "c": "memory in the naturalistic setting.",
+                "d": "your memory of similar events in the past.",
                 "answer": "c"
         }, {
                 "question" : "Which of the following constitutes prospective memory as opposed to retrospective memory?",
-                "a": "Stephen remembers the day he became the school’s new record-holder for the long-distance course ",
-                "b": "Alicia remembers to stop at the shop on her way home from work to pick up bread and milk ",
-                "c": "Caroline remembers most of the names on the list of the party guests she jotted down the previous evening ",
-                "d": "Samuel recalls a series of numbers after a 20-minute respite in a laboratory setting ",
+                "a": "Stephen remembers the day he became the school’s new record-holder for the long-distance course",
+                "b": "Alicia remembers to stop at the shop on her way home from work to pick up bread and milk",
+                "c": "Caroline remembers most of the names on the list of the party guests she jotted down the previous evening",
+                "d": "Samuel recalls a series of numbers after a 20-minute respite in a laboratory setting",
                 "answer": "b"
         }, {
                 "question" : "Declarative memory can involve either _______ or _______ memory.",
-                "a": "semantic, episodic ",
-                "b": "semantic, structural ",
-                "c": "explicit, implicit ",
-                "d": "semantic, phonemic ",
+                "a": "semantic, episodic",
+                "b": "semantic, structural",
+                "c": "explicit, implicit",
+                "d": "semantic, phonemic",
                 "answer": "a"
         }, {
                 "question" : "Different levels of processing:",
-                "a": "activate the same neural circuits. ",
-                "b": "activate different neural circuits. ",
-                "c": "are involved in rehearsal. ",
-                "d": "are different for recall and recognition. ",
+                "a": "activate the same neural circuits.",
+                "b": "activate different neural circuits.",
+                "c": "are involved in rehearsal.",
+                "d": "are different for recall and recognition.",
                 "answer": "b"
         }, {
                 "question" : "The encoding specificity principle implies that:",
-                "a": "highly specific material is recalled more easily than general material. ",
-                "b": "coding and retrieval are unrelated. ",
-                "c": "the ease of encoding is related to the ease of retrieval. ",
-                "d": "retrieval is easier if the encoding and retrieval environments are similar. ",
+                "a": "highly specific material is recalled more easily than general material.",
+                "b": "coding and retrieval are unrelated.",
+                "c": "the ease of encoding is related to the ease of retrieval.",
+                "d": "retrieval is easier if the encoding and retrieval environments are similar.",
                 "answer": "d"
         }, {
                 "question" : "David is picturing his dry cleaning heaped on top of his TV, a loaf of bread hanging where the remote control usually hangs, and bills sticking out of the VCR. What mnemonic is he using to remember?",
-                "a": "Peg method ",
-                "b": "Method of loci ",
-                "c": "Semantic scenario ",
-                "d": "SQ3R ",
+                "a": "Peg method",
+                "b": "Method of loci",
+                "c": "Semantic scenario",
+                "d": "SQ3R",
                 "answer": "b"
         }, {
                 "question" : "Schemas can affect the way people remember by:",
-                "a": "neither of the options listed. ",
-                "b": "influencing what is encoded. ",
-                "c": "both of the options listed. ",
-                "d": "shaping what is reconstructed from stored memories. ",
+                "a": "neither of the options listed.",
+                "b": "influencing what is encoded.",
+                "c": "both of the options listed.",
+                "d": "shaping what is reconstructed from stored memories.",
                 "answer": "c"
         }, {
                 "question" : "When attempting to answer the question, ‘How long is long-term memory?’ researchers draw a distinction between availability — whether the information is still ‘in there’ — and accessibility — the ease with which it can be retrieved. For the most part, accessibility:",
-                "a": "depends on STM. ",
-                "b": "determines priming effects. ",
-                "c": "is logarithmically related to availability. ",
-                "d": "reflects level of activation. ",
+                "a": "depends on STM.",
+                "b": "determines priming effects.",
+                "c": "is logarithmically related to availability.",
+                "d": "reflects level of activation.",
                 "answer": "d"
         }, {
                 "question" : "Decay theory says we forget:",
-                "a": "because our association network becomes too complex. ",
-                "b": "as our brains age. ",
-                "c": "due to the gradual loss of physiological changes due to learning. ",
-                "d": "as we learn new material of a similar nature. ",
+                "a": "because our association network becomes too complex.",
+                "b": "as our brains age.",
+                "c": "due to the gradual loss of physiological changes due to learning.",
+                "d": "as we learn new material of a similar nature.",
                 "answer": "c"
         }, {
                 "question" : "You are a participant in a psychology experiment in which you are told to learn a list of words that will be presented to you by the experimenter. Half way through the list, you are told to forget the words you have seen and just remember the last words given to you. Later, you are asked to recall both sets of words. You will:",
-                "a": "recall more words from the first half and recognise more as well. ",
-                "b": "remember more from the last half but recognise words equally from both lists. ",
-                "c": "not remember or recall any words from the first half of the list. ",
-                "d": "not remember words from the first half, but will recognise many of them. ",
+                "a": "recall more words from the first half and recognise more as well.",
+                "b": "remember more from the last half but recognise words equally from both lists.",
+                "c": "not remember or recall any words from the first half of the list.",
+                "d": "not remember words from the first half, but will recognise many of them.",
                 "answer": "b"
         }, {
                 "question" : "Some of the best evidence for the existence of repressed memories comes from a study:",
-                "a": "of the memories of recent victims of abuse. ",
-                "b": "which showed that 17 years after their documented abuse, 38% of victims did not recall the event. ",
-                "c": "of amnesia after other traumatic events. ",
-                "d": "indicating abusers often forget having committed abuse . ",
+                "a": "of the memories of recent victims of abuse.",
+                "b": "which showed that 17 years after their documented abuse, 38% of victims did not recall the event.",
+                "c": "of amnesia after other traumatic events.",
+                "d": "indicating abusers often forget having committed abuse .",
                 "answer": "b"
         }, 
         
-        // Ch 8
-        // {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // }, {
-        //         "question" : " ",
-        //         "a": " ",
-        //         "b": " ",
-        //         "c": " ",
-        //         "d": " ",
-        //         "answer": " "
-        // },
+        // Ch 12
+        {
+                "question" : "Sesame Street was introduced to television audiences in 1969. Within one year after it began, the kindergarten curriculum needed to be revised because five-year-olds were entering kindergarten with a basic understanding of many of the concepts being taught. This apparent change in one generation of five-year-olds’ cognitive abilities is an example of a(n)",
+                "a": "intelligence shift.",
+                "b": "sequential modification.",
+                "c": "cohort effect.",
+                "d": "contemporary alteration.",
+                "answer": "c"
+        }, {
+                "question" : "Rolling over, crawling, and walking are all behaviours associated with a sequential biologically programmed process known as",
+                "a": "maturation.",
+                "b": "movement.",
+                "c": "quantification. ",
+                "d": "nurture.",
+                "answer": "a"
+        }, {
+                "question" : "Periods of development characterised by special sensitivity to specific types of learning that shape the capacity for future development, are referred to as:",
+                "a": "learning portals.",
+                "b": "windows of opportunity.",
+                "c": "critical periods.",
+                "d": "stages.",
+                "answer": "c"
+        }, {
+                "question" : "Relatively discrete steps in development through which everyone passes in the same sequence are referred to as:",
+                "a": "sensitive periods.",
+                "b": "stages.",
+                "c": "cohorts.",
+                "d": "critical periods.",
+                "answer": "b"
+        }, {
+                "question" : "Which type of study compares groups of subjects of different ages at a single time, to see whether differences exist among them?",
+                "a": "Sequential",
+                "b": "Cross-sectional",
+                "c": "Cross- cultural",
+                "d": "Longitudinal",
+                "answer": "b"
+        }, {
+                "question" : "Longitudinal studies are useful in assessing:",
+                "a": "age differences, particularly in older participants.",
+                "b": "age changes rather than age differences.",
+                "c": "how cohort effects can actually influence age differences.",
+                "d": "age differences, without the concern of cohort effects.",
+                "answer": "b"
+        }, {
+                "question" : "A research design used by developmental psychologists that follows multiple cohorts longitudinally is referred to as a",
+                "a": "sequential study.",
+                "b": "cross-sectional study.",
+                "c": "longitudinal study.",
+                "d": "cohort study.",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following is the correct sequence of stages of prenatal development?",
+                "a": "Embryonic, germinal, foetal",
+                "b": "Germinal, embryonic, foetal",
+                "c": "Germinal, foetal, embryonic",
+                "d": "Foetal, embryonic, germinal",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following is symptomatic of foetal alcohol syndrome?",
+                "a": "Deformed genitals",
+                "b": "Learning disabilities",
+                "c": "Deformed ears",
+                "d": "All of the options listed",
+                "answer": "b"
+        }, {
+                "question" : "For women, the most dramatic physical change of middle adulthood is:",
+                "a": "menarche.",
+                "b": "menstruation.",
+                "c": "menopause.",
+                "d": "maturation.",
+                "answer": "c"
+        }, {
+                "question" : "By about _______ weeks, a foetus is capable of sustaining life on its own.",
+                "a": "28",
+                "b": "16",
+                "c": "22",
+                "d": "32",
+                "answer": "a"
+        }, {
+                "question" : "Piaget had a keen interest in epistemology, the branch of philosophy concerned with:",
+                "a": "thinking about thinking.",
+                "b": "the nature of knowledge.",
+                "c": "prenatal cognitive development.",
+                "d": "environmental influences on cognition.",
+                "answer": "b"
+        }, {
+                "question" : "Two-year-old Lauren loves to play ‘peek-a-boo’ with her mummy, indicating that she has acquired:",
+                "a": "centration.",
+                "b": "metacognition.",
+                "c": "object permanence.",
+                "d": "transitivity.",
+                "answer": "c"
+        }, {
+                "question" : "According to Piaget, the ability to manipulate abstract as well as concrete objects, events, and ideas mentally, characterises which stage?",
+                "a": "Concrete operational",
+                "b": "Post operational",
+                "c": "Abstract operational",
+                "d": "Formal operational",
+                "answer": "d"
+        }, {
+                "question" : "One of the clearest changes that accompanies ageing is:",
+                "a": "decreased motor-response.",
+                "b": "psychomotor slowing.",
+                "c": "reactive slowing.",
+                "d": "stimulus-reactive slowing.",
+                "answer": "b"
+        }, {
+                "question" : "How was the Seattle Longitudinal Study able to challenge the view that cognition declines throughout middle and old age?",
+                "a": "Because it was a longitudinal study, it was able to compare individuals of different age groups at the same time.",
+                "b": "Because it was a sequential study, it was able to assess age changes by combining cross-sectional and longitudinal research.",
+                "c": "Because it was a longitudinal study, it was able to compare the cohort effect of various age groups.",
+                "d": "Because it was a longitudinal study, it could assess the percentage of people within an age group that exhibited cognitive deterioration",
+                "answer": "d"
+        }, {
+                "question" : "About 1% of the population suffers from a progressive and incurable disorder marked by global disturbance of the higher mental functions, known as:",
+                "a": "dementia.",
+                "b": "depression.",
+                "c": "presbycusis.",
+                "d": "psychosis.",
+                "answer": "a"
+        }, {
+                "question" : "The neurochemistry of an Alzheimer's patient would most likely show extremely low levels of:",
+                "a": "dopamine.",
+                "b": "serotonin.",
+                "c": "acetylcholine.",
+                "d": "GABA.",
+                "answer": "c"
+        }, {
+                "question" : "When asked which of two cookies is bigger — a long thin one or a short, thick one — a preschooler is likely to:",
+                "a": "pick the shorter, thicker one, even though they both are really the same volume.",
+                "b": "pick the longer one, unless the other has a more pronounced texture.",
+                "c": "pick the longer one, even though they both really are the same volume.",
+                "d": "pick whichever one is darker in colour, regardless of size and shape.",
+                "answer": "c"
+        },
+        
+        // Ch 13
+        {
+                "question" : "In his classic series of experiments using rhesus monkeys, Harry Harlow observed that the crucial element in forming attachment relationships in primates is:",
+                "a": "a reliable food source.",
+                "b": "bonding.",
+                "c": "contact comfort.",
+                "d": "imprinting.",
+                "answer": "c"
+        }, {
+                "question" : "Children begin to demonstrate separation anxiety at which age?",
+                "a": "Two to three months of age",
+                "b": "Birth to one month of age",
+                "c": "Four to five months of age",
+                "d": "Six to seven months of age",
+                "answer": "d"
+        }, {
+                "question" : "According to recent research, a child who responds to his/her mother's absence and return by approaching her, while simultaneously avoiding her gaze, may be displaying a variant on insecure attachment called:",
+                "a": "avoidant.",
+                "b": "approach–avoidant.",
+                "c": "disorganised.",
+                "d": "ambivalent.",
+                "answer": "c"
+        }, {
+                "question" : "According to your text, socialisation is:",
+                "a": "a process which must be introduced within an appropriate critical period",
+                "b": "a transactional process in which children participate",
+                "c": "a process which must be completed in a relatively short period of time to prepare us for adulthood",
+                "d": "a unidirectional process in which parents instil in their children values and beliefs",
+                "answer": "b"
+        }, {
+                "question" : "John and Carol's teenage son, Elliot, has asked them for permission to attend a weekend party at the beach house of a friend's parents. For reasons they will not discuss with their son, they've decided to withhold their consent, and inform Elliot of their decision. Elliot accepts the ruling without protest, as he's learned from experience that further discussion would not only be fruitless but also might result in punishment. Diana Baumrind would most likely describe John and Carol's parenting style as:",
+                "a": "abusive.",
+                "b": "authoritarian.",
+                "c": "authoritative.",
+                "d": "permissive.",
+                "answer": "b"
+        }, {
+                "question" : "Which of the following is among the most powerful roles into which people are socialised?",
+                "a": "Stereotypical role",
+                "b": "Gender role",
+                "c": "Occupational role",
+                "d": "Parenting role",
+                "answer": "b"
+        }, {
+                "question" : "When her classmates were asked to write down the names of peers they really liked and really disliked, Maria wasn’t picked by anyone. Maria would best be described as:",
+                "a": "unnominated",
+                "b": "disliked",
+                "c": "neglected",
+                "d": "rejected",
+                "answer": "c"
+        }, {
+                "question" : "Neglected children tend to be:",
+                "a": "ignored by their peers.",
+                "b": "hostile and aggressive.",
+                "c": "disliked by their peers.",
+                "d": "at risk for later delinquency.",
+                "answer": "a"
+        }, {
+                "question" : "When asked to describe himself, Jason replies: ‘I’m good at maths and I’m the best skateboarder in my school.’ Based on his description, Jason is probably about:",
+                "a": "17 years of age.",
+                "b": "3 years of age.",
+                "c": "6 years of age.",
+                "d": "9 years of age.",
+                "answer": "d"
+        }, {
+                "question" : "Children encode and organise information about their culture's definitions of maleness and femaleness in:",
+                "a": "gender schemas.",
+                "b": "sex-role ideologies.",
+                "c": "gender ideals.",
+                "d": "gender stereotypes.",
+                "answer": "a"
+        }, {
+                "question" : "In the game ‘Decoy and Defender’, a child simply moves her flag carrier as quickly as possible across the board, totally failing to take into account her opponent’s perspective. Such an egocentric strategy would be typical of a(n):",
+                "a": "6- to 8-year-old child.",
+                "b": "8- to 10-year-old child.",
+                "c": "1- to 2-year-old child.",
+                "d": "3- to 6-year-old child.",
+                "answer": "d"
+        }, {
+                "question" : "Gender constancy refers to children’s:",
+                "a": "realisation that their gender remains constant over time.",
+                "b": "tendency to play and form friendships primarily with same-sex peers.",
+                "c": "realisation that a person’s gender cannot be altered by changes in appearance or activities.",
+                "d": "ability to categorise themselves and others according to gender.",
+                "answer": "c"
+        }, {
+                "question" : "The majority of pre-industrial societies socialise boys from an early age to be:",
+                "a": "obedient.",
+                "b": "self-restrained.",
+                "c": "responsible.",
+                "d": "self-reliant.",
+                "answer": "d"
+        }, {
+                "question" : "Empathy is said to have two components:",
+                "a": "cognitive and emotional.",
+                "b": "cognitive and behavioural.",
+                "c": "cognitive, emotional and behavioural.",
+                "d": "emotional and behavioural.",
+                "answer": "a"
+        }, {
+                "question" : "When one child tries to change the rules to a game of marbles, the child she is playing with gets very upset, shouting: ‘You’re not allowed to break the rules!’ The second child is probably at which of Piaget’s stages of moral development?",
+                "a": "Morality of cooperation",
+                "b": "Morality of constraint",
+                "c": "Postconventional morality",
+                "d": "Conventional morality",
+                "answer": "b"
+        }, {
+                "question" : "After listening to the dilemma of Heinz and the druggist, an individual responds that Heinz should steal the drug, because the value of human life is far more important than obeying the law. This answer is characteristic of which of Kohlberg’s levels of moral development?",
+                "a": "Morality of constraint",
+                "b": "Morality of cooperation",
+                "c": "Conventional morality",
+                "d": "Postconventional morality",
+                "answer": "d"
+        }, {
+                "question" : "According to cognitive–social theories of moral development, children learn that certain acts are wrong and will be punished because:",
+                "a": "they are punished for the act.",
+                "b": "they see someone else punished.",
+                "c": "they are told they will be punished.",
+                "d": "all of the options listed.",
+                "answer": "a"
+        }, {
+                "question" : "In Erikson’s theory, children who have difficulty with which stage may be highly self-critical or may become rigid and constricted as a way of dealing with impulses they have come to view as bad?",
+                "a": "Initiative versus guilt",
+                "b": "Trust versus mistrust",
+                "c": "Industry versus inferiority",
+                "d": "Autonomy versus shame and doubt",
+                "answer": "a"
+        }, {
+                "question" : "Erikson describes the developmental task confronting young adults as __________, establishing enduring, committed relationships or withdrawing and avoiding commitment.",
+                "a": "trust versus mistrust",
+                "b": "industry versus inferiority",
+                "c": "intimacy versus isolation",
+                "d": "generativity versus stagnation",
+                "answer": "c"
+        }, {
+                "question" : "Erikson describes the developmental task confronting young adults as __________, establishing enduring, committed relationships or withdrawing and avoiding commitment.",
+                "a": "trust versus mistrust",
+                "b": "industry versus inferiority",
+                "c": "intimacy versus isolation",
+                "d": "generativity versus stagnation",
+                "answer": "c"
+        }, 
+        
+        // Ch 10
+        {
+                "question" : "Drive reduction theory argues that motivation is a function of:",
+                "a": "hunger and safety.",
+                "b": "sex and aggression.",
+                "c": "implicit and explicit factors.",
+                "d": "drive and reinforcement.",
+                "answer": "d"
+        }, {
+                "question" : "Which one of the following can be considered an incentive?",
+                "a": "The desire to get an A on an exam",
+                "b": "The hope that you will win money from a slot machine",
+                "c": "Both of the options listed",
+                "d": "Neither of the options listed",
+                "answer": "d"
+        }, {
+                "question" : "Deci’s self-determination theory argues that people have innate needs. Which is NOT one of them?",
+                "a": "Expectancies",
+                "b": "Relatedness to others",
+                "c": "Competence",
+                "d": "Autonomy",
+                "answer": "a"
+        }, {
+                "question" : "ERG theory condenses Maslow’s hierarchy of needs into three distinct levels:",
+                "a": "elementary, reproductive and goal realisation.",
+                "b": "existence, reproductive and goal realisation.",
+                "c": "existence, relatedness and growth.",
+                "d": "elementary, relatedness and growth.",
+                "answer": "c"
+        }, {
+                "question" : "My body operates incredibly efficiently when I get 7 hours of sleep. This number refers to my:",
+                "a": "set point.",
+                "b": "optimal point.",
+                "c": "efficiency value.",
+                "d": "fixation node.",
+                "answer": "a"
+        }, {
+                "question" : "Which is NOT a good reason or theory for why people feel hungry?",
+                "a": "Their stomachs feel empty",
+                "b": "Glucose detectors",
+                "c": "Activity of the hypothalamus",
+                "d": "All of the options listed are good reasons for feeling hungry",
+                "answer": "a"
+        }, {
+                "question" : "An injection of which chemical into the lateral hypothalamus of laboratory animals would elicit eating?",
+                "a": "Neuropeptide Y",
+                "b": "Neuropeptide A",
+                "c": "Insulin",
+                "d": "Glucose",
+                "answer": "a"
+        }, {
+                "question" : "The correlation between socioeconomic status and obesity in industrialised countries is:",
+                "a": "negative.",
+                "b": "positive.",
+                "c": "zero.",
+                "d": "perfect.",
+                "answer": "a"
+        }, {
+                "question" : "For females, the heritability of homosexuality is estimated to be between:",
+                "a": ".27 and .76.",
+                "b": ".31 and .74.",
+                "c": ".62 and .88.",
+                "d": ".11 and .43.",
+                "answer": "a"
+        }, {
+                "question" : "Maximum arousal occurs during which phase of the sexual response cycle?",
+                "a": "Resolution",
+                "b": "Plateau",
+                "c": "Orgasm",
+                "d": "Excitement",
+                "answer": "b"
+        }, {
+                "question" : "A disorder in which the adrenal glands secrete too much androgen in utero, masculinising the genitals in females, is:",
+                "a": "androgen insensitivity syndrome.",
+                "b": "anorexia nervosa.",
+                "c": "congenital adrenal hyperplasia.",
+                "d": "maternal stress syndrome.",
+                "answer": "c"
+        }, {
+                "question" : "The direction of a person’s enduring sexual attraction is referred to as:",
+                "a": "sexual preference.",
+                "b": "sexual response.",
+                "c": "sexual orientation.",
+                "d": "sexual motivation.",
+                "answer": "c"
+        }, {
+                "question" : "Social relationships, particularly with people in whom one can confide, are important for:",
+                "a": "establishing intimacy.",
+                "b": "developing interpersonal skills.",
+                "c": "development of self-esteem.",
+                "d": "both physical and mental health.",
+                "answer": "d"
+        }, {
+                "question" : "To do well, to succeed, and to avoid failure, all refer to the need for:",
+                "a": "exceptionality.",
+                "b": "superiority.",
+                "c": "affiliation.",
+                "d": "achievement.",
+                "answer": "d"
+        }, {
+                "question" : "I keep playing the same video game over and over again. I just feel this huge desire (need) to get to a higher and higher level. This is an example of a:",
+                "a": "performance avoidance goal.",
+                "b": "performance-approach goal.",
+                "c": "mastery goal.",
+                "d": "performance goal.",
+                "answer": "c"
+        }, {
+                "question" : "Which of the following is not a motive of an agency goal?",
+                "a": "Achievement",
+                "b": "Communion",
+                "c": "Autonomy",
+                "d": "Mastery",
+                "answer": "b"
+        }, {
+                "question" : "According to some theorists, the primary centre of emotion is:",
+                "a": "the face.",
+                "b": "experience.",
+                "c": "cognitive processing.",
+                "d": "genetics.",
+                "answer": "a"
+        }, {
+                "question" : "Which of the following emotions appear to be neither a positive nor a negative affect?",
+                "a": "Sadness",
+                "b": "Jealousy",
+                "c": "Anger",
+                "d": "Love",
+                "answer": "c"
+        }, {
+                "question" : "The James–Lange theory of emotion sees the origins of emotion in:",
+                "a": "the cognitive appraisal of situation.",
+                "b": "how we encode and retrieve information about an experience.",
+                "c": "the peripheral nervous system.",
+                "d": "the attributions people make concerning their ability to cope.",
+                "answer": "c"
+        }, {
+                "question" : "In addition to indicating a person’s emotional state, facial expressions:",
+                "a": "tell you what he or she is thinking.",
+                "b": "provide insight into his or her implicit motivation.",
+                "c": "can indicate phases of the sexual response cycle.",
+                "d": "can influence patterns of autonomic response.",
+                "answer": "d"
+        }, 
 ];
